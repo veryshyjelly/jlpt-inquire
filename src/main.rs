@@ -4,8 +4,8 @@ mod quiz;
 mod search;
 
 use inquire::list_option::ListOption;
-use inquire::validator::{ErrorMessage, Validation};
-use inquire::{CustomType, Select};
+use inquire::validator::{ErrorMessage, StringValidator, Validation};
+use inquire::{CustomType, CustomUserError, Select};
 use serde::{Deserialize, Serialize};
 use std::fs::File;
 
@@ -73,4 +73,48 @@ fn ask_for_level() -> usize {
         .with_error_message("Please type a valid level")
         .prompt()
         .unwrap()
+}
+
+#[derive(Clone)]
+struct AskForRomaji {
+    romaji: String,
+}
+
+impl AskForRomaji {
+    fn new(romaji: String) -> Self {
+        Self { romaji }
+    }
+}
+
+impl StringValidator for AskForRomaji {
+    fn validate(&self, input: &str) -> Result<Validation, CustomUserError> {
+        if input.eq("i want to quit") {
+            return Ok(Validation::Valid);
+        }
+        if input.eq("show answer") {
+            Ok(Validation::Invalid(ErrorMessage::Custom(format!(
+                "the answer is {}",
+                self.romaji
+            ))))
+        } else if self.romaji.eq(input) {
+            Ok(Validation::Valid)
+        } else {
+            Ok(Validation::Invalid(ErrorMessage::Custom(
+                "Wrong Answer".into(),
+            )))
+        }
+    }
+}
+
+fn ask_for_music() -> bool {
+    if Select::new("Want sound?", vec!["yes", "no"])
+        .with_vim_mode(true)
+        .prompt()
+        .unwrap()
+        .eq("yes")
+    {
+        true
+    } else {
+        false
+    }
 }

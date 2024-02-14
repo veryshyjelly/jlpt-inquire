@@ -1,20 +1,13 @@
 use crate::audio::play_audio;
-use crate::Word;
+use crate::{ask_for_music, Word};
 use colored::Colorize;
 use inquire::validator::{ErrorMessage, Validation};
-use inquire::{Select, Text};
-use std::thread;
+use inquire::Text;
+use rodio::OutputStream;
 
 pub fn romaji_search(vocab: &Vec<Word>) {
-    let mut play_sound = false;
-    if Select::new("Want sound?", vec!["yes", "no"])
-        .with_vim_mode(true)
-        .prompt()
-        .unwrap()
-        .eq("yes")
-    {
-        play_sound = true;
-    }
+    let play_sound = ask_for_music();
+    let (_stream, output_stream) = OutputStream::try_default().unwrap();
 
     let romaji_list = vocab.iter().map(|w| w.romaji.clone()).collect::<Vec<_>>();
     loop {
@@ -65,9 +58,7 @@ pub fn romaji_search(vocab: &Vec<Word>) {
         // clone audio to pass into the thread
         let audio = word.audio.clone();
         if play_sound {
-            thread::spawn(|| {
-                play_audio(audio);
-            });
+            play_audio(audio, &output_stream);
         }
     }
 }

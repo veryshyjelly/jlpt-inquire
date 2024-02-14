@@ -1,11 +1,10 @@
 use crate::audio::play_audio;
-use crate::Word;
+use crate::{ask_for_music, AskForRomaji, Word};
 use colored::Colorize;
 use inquire::list_option::ListOption;
-use inquire::validator::{ErrorMessage, Validation};
 use inquire::{Select, Text};
 use rand::Rng;
-use std::thread;
+use rodio::OutputStream;
 
 pub fn practice(vocab: &Vec<Word>) {
     let mut rng = rand::thread_rng();
@@ -19,7 +18,6 @@ pub fn practice(vocab: &Vec<Word>) {
 
     let mut show_meaning = false;
     let mut show_kana = false;
-    let mut play_sound = false;
 
     match Select::new("What you want to practice?", practice_options)
         .with_vim_mode(true)
@@ -40,15 +38,8 @@ pub fn practice(vocab: &Vec<Word>) {
         }
         _ => return,
     }
-
-    if Select::new("Want sound?", vec!["yes", "no"])
-        .with_vim_mode(true)
-        .prompt()
-        .unwrap()
-        .eq("yes")
-    {
-        play_sound = true;
-    }
+    let play_sound = ask_for_music();
+    let (_stream, output_stream) = OutputStream::try_default().unwrap();
 
     loop {
         let random_index = rng.gen_range(0..vocab.len());
@@ -65,25 +56,9 @@ pub fn practice(vocab: &Vec<Word>) {
             }
             format!("{}", random_word.kanji.magenta().bold())
         };
-        let validator = move |input: &str| {
-            if input.eq("i want to quit") {
-                return Ok(Validation::Valid);
-            }
-            if input.eq("show answer") {
-                Ok(Validation::Invalid(ErrorMessage::Custom(format!(
-                    "the answer is {}",
-                    random_word.romaji
-                ))))
-            } else if random_word.romaji.eq(input) {
-                Ok(Validation::Valid)
-            } else {
-                Ok(Validation::Invalid(ErrorMessage::Custom(
-                    "Wrong Answer".into(),
-                )))
-            }
-        };
+
         let ans = Text::new(&prompt)
-            .with_validator(validator)
+            .with_validator(AskForRomaji::new(random_word.romaji))
             .prompt()
             .unwrap();
         if ans.eq("i want to quit") {
@@ -96,9 +71,7 @@ pub fn practice(vocab: &Vec<Word>) {
             }
         }
         if play_sound {
-            thread::spawn(|| {
-                play_audio(random_word.audio);
-            });
+            play_audio(random_word.audio, &output_stream);
         }
     }
 }

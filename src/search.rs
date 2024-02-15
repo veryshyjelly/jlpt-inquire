@@ -47,7 +47,7 @@ pub fn romaji_search(vocab: &Vec<Word>) {
         println!(
             "{} {}",
             word.kana.red().yellow().bold(),
-            word.kanji.magenta().bold()
+            word.kanji.magenta()
         );
 
         println!("{}", "Meaning:".bright_green().bold());

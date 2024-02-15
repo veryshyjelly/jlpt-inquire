@@ -51,13 +51,13 @@ pub fn quiz(vocab: &Vec<Word>) {
             format!(
                 "{} {}",
                 random_word.kana.red().yellow().bold(),
-                random_word.kanji.magenta().bold()
+                random_word.kanji.magenta()
             )
         } else {
             if random_word.kanji.is_empty() {
                 continue;
             }
-            format!("{}", random_word.kanji.magenta().bold())
+            format!("{}", random_word.kanji.magenta())
         };
         println!("{}", prompt);
 

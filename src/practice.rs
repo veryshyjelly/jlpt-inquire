@@ -57,8 +57,21 @@ pub fn practice(vocab: &Vec<Word>) {
             format!("{}", random_word.kanji.magenta())
         };
 
+        let word_for_format = random_word.clone();
+        let formatter = move |inp: &str| {
+            if inp.eq("i want to quit") {
+                return "".into();
+            }
+            format!(
+                "{} {}",
+                word_for_format.devnagri.blue().bold(),
+                word_for_format.romaji,
+            )
+        };
+
         let ans = Text::new(&prompt)
             .with_validator(AskForRomaji::new(random_word.romaji))
+            .with_formatter(&formatter)
             .prompt()
             .unwrap();
         if ans.eq("i want to quit") {

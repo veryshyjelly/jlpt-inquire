@@ -353,7 +353,6 @@ name = "jlpt_inquire"
 version = "0.1.0"
 dependencies = [
  "colored",
- "dyn-clone",
  "inquire",
  "rand",
  "rodio",

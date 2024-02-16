@@ -17,6 +17,7 @@ struct Word {
     kanji: String,
     kana: String,
     romaji: String,
+    devnagri: String,
     meaning: Vec<String>,
     audio: String,
 }

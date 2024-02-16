@@ -4,6 +4,7 @@
         "kanji": "浴びる",
         "kana": "あびる",
         "romaji": "abiru",
+        "devnagri": "नहाना",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -19,6 +20,7 @@
         "kanji": "危ない",
         "kana": "あぶない",
         "romaji": "abunai",
+        "devnagri": "खतरनाक",
         "type": [
             "adjective"
         ],
@@ -35,6 +37,7 @@
         "kanji": "彼方",
         "kana": "あっち",
         "romaji": "acchi",
+        "devnagri": "आगे",
         "type": [
             "pronoun"
         ],
@@ -51,6 +54,7 @@
         "kanji": "彼方",
         "kana": "あちら",
         "romaji": "achira",
+        "devnagri": "आगे",
         "type": [
             "pronoun"
         ],
@@ -67,6 +71,7 @@
         "kanji": "上げる",
         "kana": "あげる",
         "romaji": "ageru",
+        "devnagri": "बढ़ोतरी",
         "type": [
             "Ichidan verb",
             "transitive verb",
@@ -113,6 +118,7 @@
         "kanji": "赤",
         "kana": "あか",
         "romaji": "aka",
+        "devnagri": "लाल",
         "type": [
             "noun",
             "no-adjective",
@@ -135,6 +141,7 @@
         "kanji": "赤い",
         "kana": "あかい",
         "romaji": "akai",
+        "devnagri": "लाल",
         "type": [
             "adjective"
         ],
@@ -150,6 +157,7 @@
         "kanji": "明い",
         "kana": "あかるい",
         "romaji": "akarui",
+        "devnagri": "स्पष्ट",
         "type": [
             "adjective"
         ],
@@ -168,6 +176,7 @@
         "kanji": "開ける",
         "kana": "あける",
         "romaji": "akeru",
+        "devnagri": "खुला",
         "type": [
             "Ichidan verb",
             "transitive verb",
@@ -193,6 +202,7 @@
         "kanji": "秋",
         "kana": "あき",
         "romaji": "aki",
+        "devnagri": "शरद ऋतु",
         "type": [
             "noun (temporal)"
         ],
@@ -206,6 +216,7 @@
         "kanji": "開く",
         "kana": "あく",
         "romaji": "aku",
+        "devnagri": "खुला",
         "type": [
             "Godan-ku verb",
             "intransitive verb",
@@ -232,6 +243,7 @@
         "kanji": "甘い",
         "kana": "あまい",
         "romaji": "amai",
+        "devnagri": "मिठाई",
         "type": [
             "adjective"
         ],
@@ -252,6 +264,7 @@
         "kanji": "余り",
         "kana": "あまり",
         "romaji": "amari",
+        "devnagri": "शेष",
         "type": [
             "noun",
             "no-adjective",
@@ -274,6 +287,7 @@
         "kanji": "雨",
         "kana": "あめ",
         "romaji": "ame",
+        "devnagri": "बारिश",
         "type": [
             "noun"
         ],
@@ -289,6 +303,7 @@
         "kanji": "飴",
         "kana": "あめ",
         "romaji": "ame",
+        "devnagri": "कैंडी",
         "type": [
             "noun"
         ],
@@ -304,6 +319,7 @@
         "kanji": "貴方",
         "kana": "あなた",
         "romaji": "anata",
+        "devnagri": "आप",
         "type": [
             "pronoun"
         ],
@@ -318,6 +334,7 @@
         "kanji": "姉",
         "kana": "あね",
         "romaji": "ane",
+        "devnagri": "बहन",
         "type": [
             "noun"
         ],
@@ -331,6 +348,7 @@
         "kanji": "兄",
         "kana": "あに",
         "romaji": "ani",
+        "devnagri": "बड़े भाई",
         "type": [
             "noun"
         ],
@@ -343,6 +361,7 @@
         "#": 19,
         "kana": "あの",
         "romaji": "ano",
+        "devnagri": "वह",
         "type": [
             "interjection"
         ],
@@ -356,6 +375,7 @@
         "kanji": "青",
         "kana": "あお",
         "romaji": "ao",
+        "devnagri": "नीला",
         "type": [
             "noun",
             "no-adjective",
@@ -377,6 +397,7 @@
         "kanji": "青い",
         "kana": "あおい",
         "romaji": "aoi",
+        "devnagri": "नीला",
         "type": [
             "adjective"
         ],
@@ -392,6 +413,7 @@
         "#": 22,
         "kana": "アパート",
         "romaji": "apaato",
+        "devnagri": "अपार्टमेंट",
         "type": [
             "noun"
         ],
@@ -406,6 +428,7 @@
         "kanji": "洗う",
         "kana": "あらう",
         "romaji": "arau",
+        "devnagri": "धोना",
         "type": [
             "Godan-u verb",
             "transitive verb"
@@ -423,6 +446,7 @@
         "kanji": "彼",
         "kana": "あれ",
         "romaji": "are",
+        "devnagri": "वह",
         "type": [
             "pronoun",
             "noun",
@@ -443,6 +467,7 @@
         "kanji": "有る",
         "kana": "ある",
         "romaji": "aru",
+        "devnagri": "पास होना",
         "type": [
             "Godan-ru verb (irregular)",
             "intransitive verb"
@@ -461,6 +486,7 @@
         "kanji": "歩く",
         "kana": "あるく",
         "romaji": "aruku",
+        "devnagri": "टहलना",
         "type": [
             "Godan-ku verb",
             "intransitive verb"
@@ -475,6 +501,7 @@
         "kanji": "朝",
         "kana": "あさ",
         "romaji": "asa",
+        "devnagri": "सुबह",
         "type": [
             "noun",
             "noun (temporal)",
@@ -492,6 +519,7 @@
         "kanji": "朝御飯",
         "kana": "あさごはん",
         "romaji": "asagohan",
+        "devnagri": "नाश्ता",
         "type": [
             "noun"
         ],
@@ -505,6 +533,7 @@
         "kanji": "明後日",
         "kana": "あさって",
         "romaji": "asatte",
+        "devnagri": "परसों",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -519,6 +548,7 @@
         "kanji": "足",
         "kana": "あし",
         "romaji": "ashi",
+        "devnagri": "पैर",
         "type": [
             "noun"
         ],
@@ -538,6 +568,7 @@
         "kanji": "明日",
         "kana": "あした",
         "romaji": "ashita",
+        "devnagri": "कल",
         "type": [
             "noun (temporal)"
         ],
@@ -552,6 +583,7 @@
         "kanji": "遊ぶ",
         "kana": "あそぶ",
         "romaji": "asobu",
+        "devnagri": "खेल",
         "type": [
             "Godan-bu verb",
             "intransitive verb"
@@ -573,6 +605,7 @@
         "kanji": "彼処",
         "kana": "あそこ",
         "romaji": "asoko",
+        "devnagri": "घर",
         "type": [
             "pronoun",
             "noun"
@@ -589,6 +622,7 @@
         "kanji": "頭",
         "kana": "あたま",
         "romaji": "atama",
+        "devnagri": "सिर",
         "type": [
             "noun"
         ],
@@ -611,6 +645,7 @@
         "kanji": "新しい",
         "kana": "あたらしい",
         "romaji": "atarashii",
+        "devnagri": "नया",
         "type": [
             "adjective"
         ],
@@ -624,6 +659,7 @@
         "kanji": "暖かい",
         "kana": "あたたかい",
         "romaji": "atatakai",
+        "devnagri": "गरम",
         "type": [
             "adjective"
         ],
@@ -640,6 +676,7 @@
         "kanji": "後",
         "kana": "あと",
         "romaji": "ato",
+        "devnagri": "पिछला",
         "type": [
             "noun",
             "no-adjective",
@@ -664,6 +701,7 @@
         "kanji": "熱い",
         "kana": "あつい",
         "romaji": "atsui",
+        "devnagri": "गर्म",
         "type": [
             "adjective"
         ],
@@ -682,6 +720,7 @@
         "kanji": "暑い",
         "kana": "あつい",
         "romaji": "atsui",
+        "devnagri": "गर्म",
         "type": [
             "adjective"
         ],
@@ -697,6 +736,7 @@
         "kanji": "厚い",
         "kana": "あつい",
         "romaji": "atsui",
+        "devnagri": "मोटा",
         "type": [
             "adjective"
         ],
@@ -713,6 +753,7 @@
         "kanji": "会う",
         "kana": "あう",
         "romaji": "au",
+        "devnagri": "मिलो",
         "type": [
             "Godan-u verb",
             "intransitive verb"
@@ -728,6 +769,7 @@
         "kanji": "晩",
         "kana": "ばん",
         "romaji": "ban",
+        "devnagri": "रात",
         "type": [
             "adverbial noun",
             "noun (temporal)",
@@ -746,6 +788,7 @@
         "kanji": "晩御飯",
         "kana": "ばんごはん",
         "romaji": "bangohan",
+        "devnagri": "रात का खाना",
         "type": [
             "noun"
         ],
@@ -759,6 +802,7 @@
         "kanji": "番号",
         "kana": "ばんごう",
         "romaji": "bangou",
+        "devnagri": "संख्या",
         "type": [
             "noun"
         ],
@@ -771,6 +815,7 @@
         "#": 45,
         "kana": "バス",
         "romaji": "basu",
+        "devnagri": "बस",
         "type": [
             "noun"
         ],
@@ -783,6 +828,7 @@
         "#": 46,
         "kana": "バター",
         "romaji": "bataa",
+        "devnagri": "मक्खन",
         "type": [
             "noun"
         ],
@@ -795,6 +841,7 @@
         "#": 47,
         "kana": "ベッド",
         "romaji": "beddo",
+        "devnagri": "बिस्तर",
         "type": [
             "noun"
         ],
@@ -808,6 +855,7 @@
         "kanji": "勉強",
         "kana": "べんきょう",
         "romaji": "benkyou",
+        "devnagri": "अध्ययन",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -824,6 +872,7 @@
         "kanji": "便利",
         "kana": "べんり",
         "romaji": "benri",
+        "devnagri": "सुविधा",
         "type": [
             "na-adjective"
         ],
@@ -836,6 +885,7 @@
         "#": 50,
         "kana": "ボールペン",
         "romaji": "boorupen",
+        "devnagri": "बॉलपॉइंट कलम",
         "type": [
             "noun"
         ],
@@ -848,6 +898,7 @@
         "#": 51,
         "kana": "ボタン",
         "romaji": "botan",
+        "devnagri": "बटन",
         "type": [
             "noun"
         ],
@@ -861,6 +912,7 @@
         "kanji": "帽子",
         "kana": "ぼうし",
         "romaji": "boushi",
+        "devnagri": "टोपी",
         "type": [
             "noun"
         ],
@@ -874,6 +926,7 @@
         "kanji": "文章",
         "kana": "ぶんしょう",
         "romaji": "bunshou",
+        "devnagri": "वाक्य",
         "type": [
             "noun"
         ],
@@ -888,6 +941,7 @@
         "kanji": "豚肉",
         "kana": "ぶたにく",
         "romaji": "butaniku",
+        "devnagri": "सुअर का माँस",
         "type": [
             "noun"
         ],
@@ -901,6 +955,7 @@
         "kanji": "病院",
         "kana": "びょういん",
         "romaji": "byouin",
+        "devnagri": "अस्पताल",
         "type": [
             "noun",
             "no-adjective"
@@ -915,6 +970,7 @@
         "kanji": "病気",
         "kana": "びょうき",
         "romaji": "byouki",
+        "devnagri": "बीमारी",
         "type": [
             "noun",
             "no-adjective",
@@ -933,6 +989,7 @@
         "kanji": "茶色",
         "kana": "ちゃいろ",
         "romaji": "chairo",
+        "devnagri": "भूरा",
         "type": [
             "noun",
             "no-adjective"
@@ -947,6 +1004,7 @@
         "kanji": "茶碗",
         "kana": "ちゃわん",
         "romaji": "chawan",
+        "devnagri": "कटोरा",
         "type": [
             "noun"
         ],
@@ -960,6 +1018,7 @@
         "kanji": "違う",
         "kana": "ちがう",
         "romaji": "chigau",
+        "devnagri": "अलग",
         "type": [
             "Godan-u verb",
             "intransitive verb",
@@ -979,6 +1038,7 @@
         "kanji": "小さい",
         "kana": "ちいさい",
         "romaji": "chiisai",
+        "devnagri": "छोटा",
         "type": [
             "adjective"
         ],
@@ -996,6 +1056,7 @@
         "kanji": "小さな",
         "kana": "ちいさな",
         "romaji": "chiisana",
+        "devnagri": "छोटा",
         "type": [
             "pre-noun adjectival"
         ],
@@ -1009,6 +1070,7 @@
         "kanji": "近い",
         "kana": "ちかい",
         "romaji": "chikai",
+        "devnagri": "बंद करना",
         "type": [
             "adjective"
         ],
@@ -1026,6 +1088,7 @@
         "kanji": "近く",
         "kana": "ちかく",
         "romaji": "chikaku",
+        "devnagri": "पास में",
         "type": [
             "noun",
             "no-adjective",
@@ -1045,6 +1108,7 @@
         "kanji": "地下鉄",
         "kana": "ちかてつ",
         "romaji": "chikatetsu",
+        "devnagri": "भूमिगत मार्ग",
         "type": [
             "noun"
         ],
@@ -1058,6 +1122,7 @@
         "kanji": "地図",
         "kana": "ちず",
         "romaji": "chizu",
+        "devnagri": "नक्शा",
         "type": [
             "noun"
         ],
@@ -1071,6 +1136,7 @@
         "kanji": "一寸",
         "kana": "ちょっと",
         "romaji": "chotto",
+        "devnagri": "एक आकार",
         "type": [
             "adverb",
             "interjection"
@@ -1089,6 +1155,7 @@
         "kanji": "丁度",
         "kana": "ちょうど",
         "romaji": "choudo",
+        "devnagri": "बिल्कुल",
         "type": [
             "adverb"
         ],
@@ -1103,6 +1170,7 @@
         "kanji": "台所",
         "kana": "だいどころ",
         "romaji": "daidokoro",
+        "devnagri": "रसोईघर",
         "type": [
             "noun",
             "no-adjective",
@@ -1119,6 +1187,7 @@
         "kanji": "大学",
         "kana": "だいがく",
         "romaji": "daigaku",
+        "devnagri": "विश्वविद्यालय",
         "type": [
             "noun"
         ],
@@ -1134,6 +1203,7 @@
         "kanji": "大丈夫",
         "kana": "だいじょうぶ",
         "romaji": "daijoubu",
+        "devnagri": "तुम ठीक हो",
         "type": [
             "na-adjective",
             "adverb",
@@ -1154,6 +1224,7 @@
         "kanji": "大好き",
         "kana": "だいすき",
         "romaji": "daisuki",
+        "devnagri": "सच में बहुत अच्छा लगा",
         "type": [
             "na-adjective"
         ],
@@ -1166,6 +1237,7 @@
         "#": 72,
         "kana": "だんだん",
         "romaji": "dandan",
+        "devnagri": "धीरे-धीरे",
         "type": [
             "expression"
         ],
@@ -1179,6 +1251,7 @@
         "kanji": "誰",
         "kana": "だれ",
         "romaji": "dare",
+        "devnagri": "कौन",
         "type": [
             "pronoun"
         ],
@@ -1192,6 +1265,7 @@
         "kanji": "誰か",
         "kana": "だれか",
         "romaji": "dareka",
+        "devnagri": "कौन",
         "type": [
             "pronoun"
         ],
@@ -1205,6 +1279,7 @@
         "kanji": "出す",
         "kana": "だす",
         "romaji": "dasu",
+        "devnagri": "बाहर रखो",
         "type": [
             "Godan-su verb",
             "transitive verb",
@@ -1229,6 +1304,7 @@
         "kanji": "出口",
         "kana": "でぐち",
         "romaji": "deguchi",
+        "devnagri": "बाहर निकलना",
         "type": [
             "noun"
         ],
@@ -1242,6 +1318,7 @@
         "#": 77,
         "kana": "では",
         "romaji": "deha",
+        "devnagri": "तब",
         "type": [
             "conjunction",
             "interjection",
@@ -1258,6 +1335,7 @@
         "kanji": "出かける",
         "kana": "でかける",
         "romaji": "dekakeru",
+        "devnagri": "बाहर जाओ",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -1273,6 +1351,7 @@
         "kanji": "出来る",
         "kana": "できる",
         "romaji": "dekiru",
+        "devnagri": "तैयार रहो",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -1292,6 +1371,7 @@
         "#": 80,
         "kana": "でも",
         "romaji": "demo",
+        "devnagri": "लेकिन",
         "type": [
             "conjunction",
             "particle",
@@ -1313,6 +1393,7 @@
         "kanji": "電気",
         "kana": "でんき",
         "romaji": "denki",
+        "devnagri": "बिजली",
         "type": [
             "noun"
         ],
@@ -1327,6 +1408,7 @@
         "kanji": "電車",
         "kana": "でんしゃ",
         "romaji": "densha",
+        "devnagri": "रेलगाड़ी",
         "type": [
             "noun"
         ],
@@ -1340,6 +1422,7 @@
         "kanji": "電話",
         "kana": "でんわ",
         "romaji": "denwa",
+        "devnagri": "फ़ोन",
         "type": [
             "noun",
             "auxillary suru verb",
@@ -1357,6 +1440,7 @@
         "#": 84,
         "kana": "デパート",
         "romaji": "depaato",
+        "devnagri": "डिपार्टमेंट स्टोर",
         "type": [
             "noun"
         ],
@@ -1371,6 +1455,7 @@
         "kanji": "出る",
         "kana": "でる",
         "romaji": "deru",
+        "devnagri": "बाहर आओ",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -1403,6 +1488,7 @@
         "#": 86,
         "kana": "ドア",
         "romaji": "doa",
+        "devnagri": "दरवाजा",
         "type": [
             "noun"
         ],
@@ -1416,6 +1502,7 @@
         "kanji": "何方",
         "kana": "どっち",
         "romaji": "docchi",
+        "devnagri": "कौन",
         "type": [
             "pronoun"
         ],
@@ -1431,6 +1518,7 @@
         "kanji": "何方",
         "kana": "どちら",
         "romaji": "dochira",
+        "devnagri": "कौन",
         "type": [
             "pronoun"
         ],
@@ -1446,6 +1534,7 @@
         "kanji": "何処",
         "kana": "どこ",
         "romaji": "doko",
+        "devnagri": "कहाँ",
         "type": [
             "pronoun"
         ],
@@ -1460,6 +1549,7 @@
         "kanji": "何方",
         "kana": "どなた",
         "romaji": "donata",
+        "devnagri": "कौन",
         "type": [
             "noun"
         ],
@@ -1473,6 +1563,7 @@
         "kanji": "何の",
         "kana": "どの",
         "romaji": "dono",
+        "devnagri": "क्या",
         "type": [
             "pre-noun adjectival"
         ],
@@ -1486,6 +1577,7 @@
         "kanji": "何れ",
         "kana": "どれ",
         "romaji": "dore",
+        "devnagri": "फिर भी",
         "type": [
             "pronoun",
             "interjection"
@@ -1502,6 +1594,7 @@
         "kanji": "如何",
         "kana": "どう",
         "romaji": "dou",
+        "devnagri": "क्या",
         "type": [
             "adverb"
         ],
@@ -1515,6 +1608,7 @@
         "kanji": "動物",
         "kana": "どうぶつ",
         "romaji": "doubutsu",
+        "devnagri": "जानवर",
         "type": [
             "noun"
         ],
@@ -1527,6 +1621,7 @@
         "#": 95,
         "kana": "どうも",
         "romaji": "doumo",
+        "devnagri": "धन्यवाद",
         "type": [
             "interjection",
             "adverb",
@@ -1547,6 +1642,7 @@
         "kanji": "如何して",
         "kana": "どうして",
         "romaji": "doushite",
+        "devnagri": "कैसे",
         "type": [
             "adverb",
             "interjection"
@@ -1563,6 +1659,7 @@
         "#": 97,
         "kana": "どうぞ",
         "romaji": "douzo",
+        "devnagri": "कृपया",
         "type": [
             "adverb"
         ],
@@ -1578,6 +1675,7 @@
         "kanji": "土曜日",
         "kana": "どようび",
         "romaji": "doyoubi",
+        "devnagri": "शनिवार",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -1592,6 +1690,7 @@
         "kanji": "絵",
         "kana": "え",
         "romaji": "e",
+        "devnagri": "चित्र",
         "type": [
             "noun"
         ],
@@ -1605,6 +1704,7 @@
         "#": 100,
         "kana": "ええ",
         "romaji": "ee",
+        "devnagri": "हाँ",
         "type": [
             "interjection",
             "prenominal"
@@ -1623,6 +1723,7 @@
         "kanji": "映画",
         "kana": "えいが",
         "romaji": "eiga",
+        "devnagri": "चलचित्र",
         "type": [
             "noun",
             "no-adjective"
@@ -1637,6 +1738,7 @@
         "kanji": "映画館",
         "kana": "えいがかん",
         "romaji": "eigakan",
+        "devnagri": "फिल्म थिएटर",
         "type": [
             "noun"
         ],
@@ -1650,6 +1752,7 @@
         "kanji": "英語",
         "kana": "えいご",
         "romaji": "eigo",
+        "devnagri": "अंग्रेज़ी",
         "type": [
             "noun",
             "no-adjective"
@@ -1664,6 +1767,7 @@
         "kanji": "駅",
         "kana": "えき",
         "romaji": "eki",
+        "devnagri": "स्टेशन",
         "type": [
             "noun",
             "counter"
@@ -1680,6 +1784,7 @@
         "kanji": "鉛筆",
         "kana": "えんぴつ",
         "romaji": "enpitsu",
+        "devnagri": "पेंसिल",
         "type": [
             "noun"
         ],
@@ -1692,6 +1797,7 @@
         "#": 106,
         "kana": "エレベーター",
         "romaji": "erebeetaa",
+        "devnagri": "लिफ़्ट",
         "type": [
             "noun"
         ],
@@ -1705,6 +1811,7 @@
         "#": 107,
         "kana": "フィルム",
         "romaji": "firumu",
+        "devnagri": "पतली परत",
         "type": [
             "noun"
         ],
@@ -1717,6 +1824,7 @@
         "#": 108,
         "kana": "フォーク",
         "romaji": "fooku",
+        "devnagri": "काँटा",
         "type": [
             "noun"
         ],
@@ -1732,6 +1840,7 @@
         "kanji": "服",
         "kana": "ふく",
         "romaji": "fuku",
+        "devnagri": "कपड़े",
         "type": [
             "noun",
             "noun (suffix)",
@@ -1749,6 +1858,7 @@
         "kanji": "吹く",
         "kana": "ふく",
         "romaji": "fuku",
+        "devnagri": "फूँक मारना",
         "type": [
             "Godan-ku verb",
             "intransitive verb",
@@ -1780,6 +1890,7 @@
         "kanji": "風呂",
         "kana": "ふろ",
         "romaji": "furo",
+        "devnagri": "नहाना",
         "type": [
             "noun"
         ],
@@ -1796,6 +1907,7 @@
         "kanji": "降る",
         "kana": "ふる",
         "romaji": "furu",
+        "devnagri": "नीचे उतरो",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -1813,6 +1925,7 @@
         "kanji": "古い",
         "kana": "ふるい",
         "romaji": "furui",
+        "devnagri": "पुराना",
         "type": [
             "adjective"
         ],
@@ -1830,6 +1943,7 @@
         "kanji": "二人",
         "kana": "ふたり",
         "romaji": "futari",
+        "devnagri": "दो व्यक्तियों",
         "type": [
             "noun"
         ],
@@ -1843,6 +1957,7 @@
         "kanji": "二つ",
         "kana": "ふたつ",
         "romaji": "futatsu",
+        "devnagri": "दो",
         "type": [
             "numeric"
         ],
@@ -1856,6 +1971,7 @@
         "kanji": "太い",
         "kana": "ふとい",
         "romaji": "futoi",
+        "devnagri": "मोटा",
         "type": [
             "adjective"
         ],
@@ -1871,6 +1987,7 @@
         "kanji": "二日",
         "kana": "ふつか",
         "romaji": "futsuka",
+        "devnagri": "दो दिन",
         "type": [
             "noun"
         ],
@@ -1885,6 +2002,7 @@
         "kanji": "封筒",
         "kana": "ふうとう",
         "romaji": "fuutou",
+        "devnagri": "लिफ़ाफ़ा",
         "type": [
             "noun"
         ],
@@ -1898,6 +2016,7 @@
         "kanji": "冬",
         "kana": "ふゆ",
         "romaji": "fuyu",
+        "devnagri": "सर्दी",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -1912,6 +2031,7 @@
         "kanji": "外国",
         "kana": "がいこく",
         "romaji": "gaikoku",
+        "devnagri": "विदेश",
         "type": [
             "noun",
             "no-adjective"
@@ -1926,6 +2046,7 @@
         "kanji": "外国人",
         "kana": "がいこくじん",
         "romaji": "gaikokujin",
+        "devnagri": "परदेशी",
         "type": [
             "noun"
         ],
@@ -1939,6 +2060,7 @@
         "kanji": "学校",
         "kana": "がっこう",
         "romaji": "gakkou",
+        "devnagri": "विद्यालय",
         "type": [
             "noun"
         ],
@@ -1952,6 +2074,7 @@
         "kanji": "学生",
         "kana": "がくせい",
         "romaji": "gakusei",
+        "devnagri": "विद्यार्थी",
         "type": [
             "noun"
         ],
@@ -1965,6 +2088,7 @@
         "kanji": "玄関",
         "kana": "げんかん",
         "romaji": "genkan",
+        "devnagri": "प्रवेश द्वार",
         "type": [
             "noun"
         ],
@@ -1978,6 +2102,7 @@
         "kanji": "元気",
         "kana": "げんき",
         "romaji": "genki",
+        "devnagri": "अच्छा",
         "type": [
             "na-adjective",
             "noun"
@@ -1993,6 +2118,7 @@
         "kanji": "月曜日",
         "kana": "げつようび",
         "romaji": "getsuyoubi",
+        "devnagri": "सोमवार",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -2007,6 +2133,7 @@
         "kanji": "銀行",
         "kana": "ぎんこう",
         "romaji": "ginkou",
+        "devnagri": "किनारा",
         "type": [
             "noun"
         ],
@@ -2019,6 +2146,7 @@
         "#": 128,
         "kana": "ギター",
         "romaji": "gitaa",
+        "devnagri": "गिटार",
         "type": [
             "noun"
         ],
@@ -2032,6 +2160,7 @@
         "kanji": "五",
         "kana": "ご",
         "romaji": "go",
+        "devnagri": "पाँच",
         "type": [
             "numeric"
         ],
@@ -2045,6 +2174,7 @@
         "kanji": "午後",
         "kana": "ごご",
         "romaji": "gogo",
+        "devnagri": "दोपहर",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -2059,6 +2189,7 @@
         "kanji": "御飯",
         "kana": "ごはん",
         "romaji": "gohan",
+        "devnagri": "चावल",
         "type": [
             "noun"
         ],
@@ -2073,6 +2204,7 @@
         "kanji": "午前",
         "kana": "ごぜん",
         "romaji": "gozen",
+        "devnagri": "सुबह",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -2087,6 +2219,7 @@
         "kanji": "瓦",
         "kana": "グラム",
         "romaji": "guramu",
+        "devnagri": "टाइल",
         "type": [
             "noun"
         ],
@@ -2100,6 +2233,7 @@
         "kanji": "牛肉",
         "kana": "ぎゅうにく",
         "romaji": "gyuuniku",
+        "devnagri": "गाय का मांस",
         "type": [
             "noun"
         ],
@@ -2113,6 +2247,7 @@
         "kanji": "牛乳",
         "kana": "ぎゅうにゅう",
         "romaji": "gyuunyuu",
+        "devnagri": "दूध",
         "type": [
             "noun"
         ],
@@ -2126,6 +2261,7 @@
         "kanji": "歯",
         "kana": "は",
         "romaji": "ha",
+        "devnagri": "दाँत",
         "type": [
             "noun"
         ],
@@ -2139,6 +2275,7 @@
         "kanji": "八",
         "kana": "はち",
         "romaji": "hachi",
+        "devnagri": "आठ",
         "type": [
             "numeric"
         ],
@@ -2152,6 +2289,7 @@
         "kanji": "葉書",
         "kana": "はがき",
         "romaji": "hagaki",
+        "devnagri": "पोस्टकार्ड",
         "type": [
             "noun"
         ],
@@ -2165,6 +2303,7 @@
         "#": 139,
         "kana": "はい",
         "romaji": "hai",
+        "devnagri": "हाँ",
         "type": [
             "interjection"
         ],
@@ -2183,6 +2322,7 @@
         "kanji": "入る",
         "kana": "はいる",
         "romaji": "hairu",
+        "devnagri": "प्रवेश करना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -2203,6 +2343,7 @@
         "kanji": "灰皿",
         "kana": "はいざら",
         "romaji": "haizara",
+        "devnagri": "राखदानी",
         "type": [
             "noun"
         ],
@@ -2216,6 +2357,7 @@
         "kanji": "始まる",
         "kana": "はじまる",
         "romaji": "hajimaru",
+        "devnagri": "शुरू",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -2232,6 +2374,7 @@
         "kanji": "始め",
         "kana": "はじめ",
         "romaji": "hajime",
+        "devnagri": "शुरू",
         "type": [
             "noun (temporal)",
             "adverbial noun",
@@ -2250,6 +2393,7 @@
         "kanji": "初めて",
         "kana": "はじめて",
         "romaji": "hajimete",
+        "devnagri": "पहली बार",
         "type": [
             "adverb",
             "no-adjective",
@@ -2266,6 +2410,7 @@
         "kanji": "箱",
         "kana": "はこ",
         "romaji": "hako",
+        "devnagri": "डिब्बा",
         "type": [
             "noun",
             "suffix",
@@ -2287,6 +2432,7 @@
         "kanji": "履く",
         "kana": "はく",
         "romaji": "haku",
+        "devnagri": "घिसाव",
         "type": [
             "Godan-ku verb",
             "transitive verb"
@@ -2303,6 +2449,7 @@
         "kanji": "半",
         "kana": "はん",
         "romaji": "han",
+        "devnagri": "आधा",
         "type": [
             "noun",
             "noun (prefix)",
@@ -2323,6 +2470,7 @@
         "kanji": "鼻",
         "kana": "はな",
         "romaji": "hana",
+        "devnagri": "नाक",
         "type": [
             "noun"
         ],
@@ -2336,6 +2484,7 @@
         "kanji": "花",
         "kana": "はな",
         "romaji": "hana",
+        "devnagri": "फूल",
         "type": [
             "noun",
             "no-adjective"
@@ -2357,6 +2506,7 @@
         "kanji": "話",
         "kana": "はなし",
         "romaji": "hanashi",
+        "devnagri": "कहानी",
         "type": [
             "noun"
         ],
@@ -2375,6 +2525,7 @@
         "kanji": "話す",
         "kana": "はなす",
         "romaji": "hanasu",
+        "devnagri": "बात करना",
         "type": [
             "Godan-su verb",
             "transitive verb"
@@ -2391,6 +2542,7 @@
         "kanji": "半分",
         "kana": "はんぶん",
         "romaji": "hanbun",
+        "devnagri": "आधा",
         "type": [
             "adverbial noun",
             "noun"
@@ -2404,6 +2556,7 @@
         "#": 153,
         "kana": "ハンカチ",
         "romaji": "hankachi",
+        "devnagri": "रूमाल",
         "type": [
             "noun"
         ],
@@ -2417,6 +2570,7 @@
         "kanji": "晴れ",
         "kana": "はれ",
         "romaji": "hare",
+        "devnagri": "धूप वाला",
         "type": [
             "noun",
             "no-adjective",
@@ -2435,6 +2589,7 @@
         "kanji": "晴れる",
         "kana": "はれる",
         "romaji": "hareru",
+        "devnagri": "स्पष्ट",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -2452,6 +2607,7 @@
         "kanji": "貼る",
         "kana": "はる",
         "romaji": "haru",
+        "devnagri": "पेस्ट करें",
         "type": [
             "Godan-ru verb",
             "transitive verb",
@@ -2493,6 +2649,7 @@
         "kanji": "春",
         "kana": "はる",
         "romaji": "haru",
+        "devnagri": "वसंत",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -2511,6 +2668,7 @@
         "kanji": "箸",
         "kana": "はし",
         "romaji": "hashi",
+        "devnagri": "चीनी काँटा",
         "type": [
             "noun"
         ],
@@ -2524,6 +2682,7 @@
         "kanji": "橋",
         "kana": "はし",
         "romaji": "hashi",
+        "devnagri": "पुल",
         "type": [
             "noun"
         ],
@@ -2537,6 +2696,7 @@
         "kanji": "走る",
         "kana": "はしる",
         "romaji": "hashiru",
+        "devnagri": "दौड़ना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -2559,6 +2719,7 @@
         "kanji": "二十歳",
         "kana": "はたち",
         "romaji": "hatachi",
+        "devnagri": "20 साल की उम्र",
         "type": [
             "noun"
         ],
@@ -2573,6 +2734,7 @@
         "kanji": "働く",
         "kana": "はたらく",
         "romaji": "hataraku",
+        "devnagri": "काम",
         "type": [
             "Godan-ku verb",
             "intransitive verb"
@@ -2590,6 +2752,7 @@
         "kanji": "二十日",
         "kana": "はつか",
         "romaji": "hatsuka",
+        "devnagri": "20 वीं",
         "type": [
             "noun"
         ],
@@ -2604,6 +2767,7 @@
         "kanji": "早い",
         "kana": "はやい",
         "romaji": "hayai",
+        "devnagri": "जल्दी",
         "type": [
             "adjective"
         ],
@@ -2620,6 +2784,7 @@
         "kanji": "速い",
         "kana": "はやい",
         "romaji": "hayai",
+        "devnagri": "तेज़",
         "type": [
             "adjective"
         ],
@@ -2636,6 +2801,7 @@
         "kanji": "辺",
         "kana": "へん",
         "romaji": "hen",
+        "devnagri": "ओर",
         "type": [
             "noun"
         ],
@@ -2651,6 +2817,7 @@
         "kanji": "下手",
         "kana": "へた",
         "romaji": "heta",
+        "devnagri": "गरीब",
         "type": [
             "na-adjective",
             "noun"
@@ -2666,6 +2833,7 @@
         "kanji": "部屋",
         "kana": "へや",
         "romaji": "heya",
+        "devnagri": "कमरा",
         "type": [
             "noun"
         ],
@@ -2681,6 +2849,7 @@
         "kanji": "左",
         "kana": "ひだり",
         "romaji": "hidari",
+        "devnagri": "बाएं",
         "type": [
             "noun",
             "no-adjective"
@@ -2695,6 +2864,7 @@
         "kanji": "東",
         "kana": "ひがし",
         "romaji": "higashi",
+        "devnagri": "पूर्व",
         "type": [
             "noun"
         ],
@@ -2708,6 +2878,7 @@
         "kanji": "飛行機",
         "kana": "ひこうき",
         "romaji": "hikouki",
+        "devnagri": "विमान",
         "type": [
             "noun"
         ],
@@ -2721,6 +2892,7 @@
         "kanji": "弾く",
         "kana": "ひく",
         "romaji": "hiku",
+        "devnagri": "खेल",
         "type": [
             "Godan-ku verb",
             "transitive verb"
@@ -2735,6 +2907,7 @@
         "kanji": "引く",
         "kana": "ひく",
         "romaji": "hiku",
+        "devnagri": "खींचो",
         "type": [
             "Godan-ku verb",
             "transitive verb",
@@ -2769,6 +2942,7 @@
         "kanji": "低い",
         "kana": "ひくい",
         "romaji": "hikui",
+        "devnagri": "कम",
         "type": [
             "adjective"
         ],
@@ -2785,6 +2959,7 @@
         "kanji": "暇",
         "kana": "ひま",
         "romaji": "hima",
+        "devnagri": "खाली समय",
         "type": [
             "noun",
             "na-adjective",
@@ -2809,6 +2984,7 @@
         "kanji": "広い",
         "kana": "ひろい",
         "romaji": "hiroi",
+        "devnagri": "चौड़ा",
         "type": [
             "adjective"
         ],
@@ -2822,6 +2998,7 @@
         "kanji": "昼",
         "kana": "ひる",
         "romaji": "hiru",
+        "devnagri": "दोपहर",
         "type": [
             "noun"
         ],
@@ -2837,6 +3014,7 @@
         "kanji": "昼御飯",
         "kana": "ひるごはん",
         "romaji": "hirugohan",
+        "devnagri": "दिन का खाना",
         "type": [
             "noun"
         ],
@@ -2850,6 +3028,7 @@
         "kanji": "人",
         "kana": "ひと",
         "romaji": "hito",
+        "devnagri": "आदमी",
         "type": [
             "noun"
         ],
@@ -2869,6 +3048,7 @@
         "kanji": "一人",
         "kana": "ひとり",
         "romaji": "hitori",
+        "devnagri": "एक व्यक्ति",
         "type": [
             "noun",
             "adverb"
@@ -2887,6 +3067,7 @@
         "kanji": "一つ",
         "kana": "ひとつ",
         "romaji": "hitotsu",
+        "devnagri": "एक",
         "type": [
             "numeric",
             "noun",
@@ -2908,6 +3089,7 @@
         "kanji": "一月",
         "kana": "ひとつき",
         "romaji": "hitotsuki",
+        "devnagri": "जनवरी",
         "type": [
             "noun"
         ],
@@ -2921,6 +3103,7 @@
         "kanji": "他",
         "kana": "ほか",
         "romaji": "hoka",
+        "devnagri": "अन्य",
         "type": [
             "noun",
             "no-adjective",
@@ -2939,6 +3122,7 @@
         "kanji": "本",
         "kana": "ほん",
         "romaji": "hon",
+        "devnagri": "किताब",
         "type": [
             "noun",
             "prefix",
@@ -2959,6 +3143,7 @@
         "kanji": "本棚",
         "kana": "ほんだな",
         "romaji": "hondana",
+        "devnagri": "पुस्ताक तख्ता",
         "type": [
             "noun"
         ],
@@ -2972,6 +3157,7 @@
         "kanji": "本当",
         "kana": "ほんとう",
         "romaji": "hontou",
+        "devnagri": "सत्य",
         "type": [
             "noun",
             "no-adjective",
@@ -2991,6 +3177,7 @@
         "kanji": "欲しい",
         "kana": "ほしい",
         "romaji": "hoshii",
+        "devnagri": "चाहना",
         "type": [
             "adjective",
             "auxiliary adjective"
@@ -3006,6 +3193,7 @@
         "kanji": "細い",
         "kana": "ほそい",
         "romaji": "hosoi",
+        "devnagri": "पतला",
         "type": [
             "adjective"
         ],
@@ -3019,6 +3207,7 @@
         "#": 189,
         "kana": "ホテル",
         "romaji": "hoteru",
+        "devnagri": "होटल",
         "type": [
             "noun"
         ],
@@ -3032,6 +3221,7 @@
         "kanji": "方",
         "kana": "ほう",
         "romaji": "hou",
+        "devnagri": "दिशा",
         "type": [
             "noun"
         ],
@@ -3051,6 +3241,7 @@
         "kanji": "百",
         "kana": "ひゃく",
         "romaji": "hyaku",
+        "devnagri": "सौ",
         "type": [
             "numeric"
         ],
@@ -3064,6 +3255,7 @@
         "kanji": "一",
         "kana": "いち",
         "romaji": "ichi",
+        "devnagri": "एक",
         "type": [
             "numeric",
             "prefix",
@@ -3090,6 +3282,7 @@
         "kanji": "一番",
         "kana": "いちばん",
         "romaji": "ichiban",
+        "devnagri": "नंबर एक",
         "type": [
             "noun",
             "no-adjective",
@@ -3112,6 +3305,7 @@
         "kanji": "一日",
         "kana": "いちにち",
         "romaji": "ichinichi",
+        "devnagri": "एक दिन",
         "type": [
             "noun",
             "adverbial noun",
@@ -3129,6 +3323,7 @@
         "kanji": "家",
         "kana": "いえ",
         "romaji": "ie",
+        "devnagri": "घर",
         "type": [
             "noun"
         ],
@@ -3143,6 +3338,7 @@
         "#": 196,
         "kana": "いい",
         "romaji": "ii",
+        "devnagri": "अच्छा",
         "type": [
             "yoi/ii adjective (special)"
         ],
@@ -3159,6 +3355,7 @@
         "kanji": "否",
         "kana": "いいえ",
         "romaji": "iie",
+        "devnagri": "नहीं",
         "type": [
             "interjection"
         ],
@@ -3174,6 +3371,7 @@
         "kanji": "如何",
         "kana": "いかが",
         "romaji": "ikaga",
+        "devnagri": "क्या",
         "type": [
             "adverb",
             "na-adjective"
@@ -3189,6 +3387,7 @@
         "kanji": "池",
         "kana": "いけ",
         "romaji": "ike",
+        "devnagri": "तालाब",
         "type": [
             "noun"
         ],
@@ -3202,6 +3401,7 @@
         "kanji": "行く",
         "kana": "いく",
         "romaji": "iku",
+        "devnagri": "जाना",
         "type": [
             "Godan-iku/yuku verb",
             "intransitive verb",
@@ -3228,6 +3428,7 @@
         "kanji": "幾ら",
         "kana": "いくら",
         "romaji": "ikura",
+        "devnagri": "कितना",
         "type": [
             "adverb",
             "noun",
@@ -3244,6 +3445,7 @@
         "kanji": "幾つ",
         "kana": "いくつ",
         "romaji": "ikutsu",
+        "devnagri": "कितने",
         "type": [
             "adverb"
         ],
@@ -3258,6 +3460,7 @@
         "kanji": "今",
         "kana": "いま",
         "romaji": "ima",
+        "devnagri": "अब",
         "type": [
             "noun (temporal)",
             "adverbial noun",
@@ -3275,6 +3478,7 @@
         "kanji": "意味",
         "kana": "いみ",
         "romaji": "imi",
+        "devnagri": "अर्थ",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -3289,6 +3493,7 @@
         "kanji": "妹",
         "kana": "いもうと",
         "romaji": "imouto",
+        "devnagri": "छोटी बहन",
         "type": [
             "noun"
         ],
@@ -3302,6 +3507,7 @@
         "kanji": "犬",
         "kana": "いぬ",
         "romaji": "inu",
+        "devnagri": "कुत्ता",
         "type": [
             "noun",
             "noun (prefix)"
@@ -3319,6 +3525,7 @@
         "kanji": "入れる",
         "kana": "いれる",
         "romaji": "ireru",
+        "devnagri": "लाना",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -3341,6 +3548,7 @@
         "kanji": "入口",
         "kana": "いりぐち",
         "romaji": "iriguchi",
+        "devnagri": "प्रवेश द्वार",
         "type": [
             "noun",
             "no-adjective"
@@ -3355,6 +3563,7 @@
         "kanji": "色",
         "kana": "いろ",
         "romaji": "iro",
+        "devnagri": "रंग",
         "type": [
             "noun"
         ],
@@ -3377,6 +3586,7 @@
         "kanji": "色々",
         "kana": "いろいろ",
         "romaji": "iroiro",
+        "devnagri": "विभिन्न",
         "type": [
             "na-adjective",
             "no-adjective",
@@ -3396,6 +3606,7 @@
         "kanji": "居る",
         "kana": "いる",
         "romaji": "iru",
+        "devnagri": "होना",
         "type": [
             "Ichidan verb",
             "intransitive verb",
@@ -3414,6 +3625,7 @@
         "kanji": "要る",
         "kana": "いる",
         "romaji": "iru",
+        "devnagri": "ज़रूरत",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -3428,6 +3640,7 @@
         "kanji": "医者",
         "kana": "いしゃ",
         "romaji": "isha",
+        "devnagri": "चिकित्सक",
         "type": [
             "noun"
         ],
@@ -3441,6 +3654,7 @@
         "kanji": "忙しい",
         "kana": "いそがしい",
         "romaji": "isogashii",
+        "devnagri": "व्यस्त",
         "type": [
             "adjective"
         ],
@@ -3455,6 +3669,7 @@
         "kanji": "一緒",
         "kana": "いっしょ",
         "romaji": "issho",
+        "devnagri": "एक साथ",
         "type": [
             "adverbial noun",
             "noun",
@@ -3472,6 +3687,7 @@
         "kanji": "椅子",
         "kana": "いす",
         "romaji": "isu",
+        "devnagri": "कुर्सी",
         "type": [
             "noun"
         ],
@@ -3486,6 +3702,7 @@
         "kanji": "痛い",
         "kana": "いたい",
         "romaji": "itai",
+        "devnagri": "यह दुखदायक है",
         "type": [
             "adjective",
             "adjective",
@@ -3503,6 +3720,7 @@
         "kanji": "何時",
         "kana": "いつ",
         "romaji": "itsu",
+        "devnagri": "कितने बजे",
         "type": [
             "pronoun"
         ],
@@ -3517,6 +3735,7 @@
         "kanji": "五日",
         "kana": "いつか",
         "romaji": "itsuka",
+        "devnagri": "पांच दिन",
         "type": [
             "noun"
         ],
@@ -3531,6 +3750,7 @@
         "kanji": "何時も",
         "kana": "いつも",
         "romaji": "itsumo",
+        "devnagri": "हमेशा",
         "type": [
             "adverb",
             "noun"
@@ -3546,6 +3766,7 @@
         "kanji": "五つ",
         "kana": "いつつ",
         "romaji": "itsutsu",
+        "devnagri": "पाँच",
         "type": [
             "numeric",
             "noun"
@@ -3562,6 +3783,7 @@
         "kanji": "言う",
         "kana": "いう",
         "romaji": "iu",
+        "devnagri": "बताने के लिए",
         "type": [
             "Godan-u verb"
         ],
@@ -3577,6 +3799,7 @@
         "kanji": "嫌",
         "kana": "いや",
         "romaji": "iya",
+        "devnagri": "घिनौना",
         "type": [
             "na-adjective",
             "noun"
@@ -3590,6 +3813,7 @@
         "#": 224,
         "kana": "じゃあ",
         "romaji": "jaa",
+        "devnagri": "तब",
         "type": [
             "conjunction",
             "copula"
@@ -3605,6 +3829,7 @@
         "kanji": "字引",
         "kana": "じびき",
         "romaji": "jibiki",
+        "devnagri": "शब्दकोष",
         "type": [
             "noun"
         ],
@@ -3618,6 +3843,7 @@
         "kanji": "自分",
         "kana": "じぶん",
         "romaji": "jibun",
+        "devnagri": "खुद",
         "type": [
             "pronoun"
         ],
@@ -3633,6 +3859,7 @@
         "kanji": "自動車",
         "kana": "じどうしゃ",
         "romaji": "jidousha",
+        "devnagri": "कार",
         "type": [
             "noun"
         ],
@@ -3646,6 +3873,7 @@
         "kanji": "時間",
         "kana": "じかん",
         "romaji": "jikan",
+        "devnagri": "समय",
         "type": [
             "noun"
         ],
@@ -3661,6 +3889,7 @@
         "kanji": "辞書",
         "kana": "じしょ",
         "romaji": "jisho",
+        "devnagri": "शब्दकोष",
         "type": [
             "noun"
         ],
@@ -3675,6 +3904,7 @@
         "kanji": "自転車",
         "kana": "じてんしゃ",
         "romaji": "jitensha",
+        "devnagri": "साइकिल",
         "type": [
             "noun"
         ],
@@ -3688,6 +3918,7 @@
         "kanji": "丈夫",
         "kana": "じょうぶ",
         "romaji": "joubu",
+        "devnagri": "टिकाऊ",
         "type": [
             "na-adjective"
         ],
@@ -3701,6 +3932,7 @@
         "kanji": "上手",
         "kana": "じょうず",
         "romaji": "jouzu",
+        "devnagri": "अच्छा",
         "type": [
             "na-adjective",
             "noun",
@@ -3717,6 +3949,7 @@
         "kanji": "授業",
         "kana": "じゅぎょう",
         "romaji": "jugyou",
+        "devnagri": "कक्षा",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -3731,6 +3964,7 @@
         "kanji": "十",
         "kana": "じゅう",
         "romaji": "juu",
+        "devnagri": "दस",
         "type": [
             "numeric",
             "noun"
@@ -3746,6 +3980,7 @@
         "kanji": "鞄",
         "kana": "かばん",
         "romaji": "kaban",
+        "devnagri": "थैला",
         "type": [
             "noun"
         ],
@@ -3759,6 +3994,7 @@
         "kanji": "花瓶",
         "kana": "かびん",
         "romaji": "kabin",
+        "devnagri": "फूलदान",
         "type": [
             "noun"
         ],
@@ -3772,6 +4008,7 @@
         "kanji": "角",
         "kana": "かど",
         "romaji": "kado",
+        "devnagri": "कोना",
         "type": [
             "noun"
         ],
@@ -3787,6 +4024,7 @@
         "kanji": "帰る",
         "kana": "かえる",
         "romaji": "kaeru",
+        "devnagri": "घर लौटना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -3803,6 +4041,7 @@
         "kanji": "返す",
         "kana": "かえす",
         "romaji": "kaesu",
+        "devnagri": "वापस करना",
         "type": [
             "Godan-su verb",
             "transitive verb",
@@ -3824,6 +4063,7 @@
         "kanji": "鍵",
         "kana": "かぎ",
         "romaji": "kagi",
+        "devnagri": "चाबी",
         "type": [
             "noun"
         ],
@@ -3839,6 +4079,7 @@
         "kanji": "階段",
         "kana": "かいだん",
         "romaji": "kaidan",
+        "devnagri": "सीढ़ियाँ",
         "type": [
             "noun"
         ],
@@ -3852,6 +4093,7 @@
         "kanji": "買い物",
         "kana": "かいもの",
         "romaji": "kaimono",
+        "devnagri": "खरीदारी",
         "type": [
             "noun"
         ],
@@ -3865,6 +4107,7 @@
         "kanji": "会社",
         "kana": "かいしゃ",
         "romaji": "kaisha",
+        "devnagri": "कंपनी",
         "type": [
             "noun"
         ],
@@ -3879,6 +4122,7 @@
         "kanji": "掛かる",
         "kana": "かかる",
         "romaji": "kakaru",
+        "devnagri": "लागू हो जाए",
         "type": [
             "Godan-ru verb",
             "intransitive verb",
@@ -3913,6 +4157,7 @@
         "kanji": "掛ける",
         "kana": "かける",
         "romaji": "kakeru",
+        "devnagri": "लगाओ",
         "type": [
             "Ichidan verb",
             "transitive verb",
@@ -3953,6 +4198,7 @@
         "kanji": "書く",
         "kana": "かく",
         "romaji": "kaku",
+        "devnagri": "लिखना",
         "type": [
             "Godan-ku verb",
             "transitive verb"
@@ -3967,6 +4213,7 @@
         "#": 247,
         "kana": "カメラ",
         "romaji": "kamera",
+        "devnagri": "कैमरा",
         "type": [
             "noun"
         ],
@@ -3980,6 +4227,7 @@
         "kanji": "紙",
         "kana": "かみ",
         "romaji": "kami",
+        "devnagri": "कागज़",
         "type": [
             "noun"
         ],
@@ -3993,6 +4241,7 @@
         "kanji": "漢字",
         "kana": "かんじ",
         "romaji": "kanji",
+        "devnagri": "चीनी अक्षरों",
         "type": [
             "noun"
         ],
@@ -4005,6 +4254,7 @@
         "#": 250,
         "kana": "カップ",
         "romaji": "kappu",
+        "devnagri": "कप",
         "type": [
             "noun"
         ],
@@ -4018,6 +4268,7 @@
         "kanji": "体",
         "kana": "からだ",
         "romaji": "karada",
+        "devnagri": "शरीर",
         "type": [
             "noun",
             "no-adjective",
@@ -4040,6 +4291,7 @@
         "kanji": "辛い",
         "kana": "からい",
         "romaji": "karai",
+        "devnagri": "मुश्किल",
         "type": [
             "adjective"
         ],
@@ -4056,6 +4308,7 @@
         "kanji": "咖哩",
         "kana": "カレー",
         "romaji": "karee",
+        "devnagri": "सुस्त",
         "type": [
             "noun"
         ],
@@ -4069,6 +4322,7 @@
         "#": 254,
         "kana": "カレンダー",
         "romaji": "karendaa",
+        "devnagri": "पंचांग",
         "type": [
             "noun"
         ],
@@ -4083,6 +4337,7 @@
         "kanji": "借りる",
         "kana": "かりる",
         "romaji": "kariru",
+        "devnagri": "उधार",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -4098,6 +4353,7 @@
         "kanji": "軽い",
         "kana": "かるい",
         "romaji": "karui",
+        "devnagri": "रोशनी",
         "type": [
             "adjective"
         ],
@@ -4116,6 +4372,7 @@
         "kanji": "傘",
         "kana": "かさ",
         "romaji": "kasa",
+        "devnagri": "छाता",
         "type": [
             "noun"
         ],
@@ -4130,6 +4387,7 @@
         "kanji": "貸す",
         "kana": "かす",
         "romaji": "kasu",
+        "devnagri": "उधार देना",
         "type": [
             "Godan-su verb",
             "transitive verb"
@@ -4145,6 +4403,7 @@
         "kanji": "方",
         "kana": "かた",
         "romaji": "kata",
+        "devnagri": "दिशा",
         "type": [
             "noun",
             "noun",
@@ -4166,6 +4425,7 @@
         "kanji": "家庭",
         "kana": "かてい",
         "romaji": "katei",
+        "devnagri": "घर",
         "type": [
             "noun",
             "no-adjective"
@@ -4180,6 +4440,7 @@
         "kanji": "買う",
         "kana": "かう",
         "romaji": "kau",
+        "devnagri": "खरीदना",
         "type": [
             "Godan-u verb",
             "transitive verb"
@@ -4196,6 +4457,7 @@
         "kanji": "川",
         "kana": "かわ",
         "romaji": "kawa",
+        "devnagri": "नदी",
         "type": [
             "noun",
             "suffix"
@@ -4211,6 +4473,7 @@
         "kanji": "可愛い",
         "kana": "かわいい",
         "romaji": "kawaii",
+        "devnagri": "प्यारा",
         "type": [
             "adjective"
         ],
@@ -4227,6 +4490,7 @@
         "kanji": "火曜日",
         "kana": "かようび",
         "romaji": "kayoubi",
+        "devnagri": "मंगलवार",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -4241,6 +4505,7 @@
         "kanji": "風",
         "kana": "かぜ",
         "romaji": "kaze",
+        "devnagri": "हवा",
         "type": [
             "noun",
             "noun",
@@ -4259,6 +4524,7 @@
         "kanji": "風邪",
         "kana": "かぜ",
         "romaji": "kaze",
+        "devnagri": "ठंडा",
         "type": [
             "noun"
         ],
@@ -4272,6 +4538,7 @@
         "kanji": "家族",
         "kana": "かぞく",
         "romaji": "kazoku",
+        "devnagri": "परिवार",
         "type": [
             "noun",
             "no-adjective"
@@ -4286,6 +4553,7 @@
         "kanji": "警官",
         "kana": "けいかん",
         "romaji": "keikan",
+        "devnagri": "पुलिस अधिकारी",
         "type": [
             "noun"
         ],
@@ -4299,6 +4567,7 @@
         "kanji": "結婚",
         "kana": "けっこん",
         "romaji": "kekkon",
+        "devnagri": "शादी",
         "type": [
             "noun",
             "no-adjective",
@@ -4314,6 +4583,7 @@
         "kanji": "結構",
         "kana": "けっこう",
         "romaji": "kekkou",
+        "devnagri": "अच्छा",
         "type": [
             "na-adjective",
             "adverbial noun",
@@ -4336,6 +4606,7 @@
         "kanji": "今朝",
         "kana": "けさ",
         "romaji": "kesa",
+        "devnagri": "आज सुबह",
         "type": [
             "noun (temporal)"
         ],
@@ -4349,6 +4620,7 @@
         "kanji": "消す",
         "kana": "けす",
         "romaji": "kesu",
+        "devnagri": "मिटा",
         "type": [
             "Godan-su verb",
             "transitive verb"
@@ -4366,6 +4638,7 @@
         "kanji": "木",
         "kana": "き",
         "romaji": "ki",
+        "devnagri": "लकड़ी",
         "type": [
             "noun"
         ],
@@ -4380,6 +4653,7 @@
         "kanji": "消える",
         "kana": "きえる",
         "romaji": "kieru",
+        "devnagri": "गायब",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -4394,6 +4668,7 @@
         "kanji": "黄色",
         "kana": "きいろ",
         "romaji": "kiiro",
+        "devnagri": "पीला",
         "type": [
             "na-adjective",
             "noun"
@@ -4408,6 +4683,7 @@
         "kanji": "黄色い",
         "kana": "きいろい",
         "romaji": "kiiroi",
+        "devnagri": "पीला",
         "type": [
             "adjective"
         ],
@@ -4422,6 +4698,7 @@
         "kanji": "聞く",
         "kana": "きく",
         "romaji": "kiku",
+        "devnagri": "सुनना",
         "type": [
             "Godan-ku verb",
             "transitive verb"
@@ -4443,6 +4720,7 @@
         "kanji": "金曜日",
         "kana": "きんようび",
         "romaji": "kin-youbi",
+        "devnagri": "शुक्रवार",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -4457,6 +4735,7 @@
         "kanji": "昨日",
         "kana": "きのう",
         "romaji": "kinou",
+        "devnagri": "कल",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -4471,6 +4750,7 @@
         "kanji": "切符",
         "kana": "きっぷ",
         "romaji": "kippu",
+        "devnagri": "टिकट",
         "type": [
             "noun"
         ],
@@ -4484,6 +4764,7 @@
         "kanji": "嫌い",
         "kana": "きらい",
         "romaji": "kirai",
+        "devnagri": "नापसन्द",
         "type": [
             "na-adjective",
             "noun",
@@ -4501,6 +4782,7 @@
         "kanji": "綺麗",
         "kana": "きれい",
         "romaji": "kirei",
+        "devnagri": "सुंदर",
         "type": [
             "na-adjective"
         ],
@@ -4516,6 +4798,7 @@
         "kanji": "瓩",
         "kana": "キログラム",
         "romaji": "kiroguramu",
+        "devnagri": "सुस्त",
         "type": [
             "noun"
         ],
@@ -4529,6 +4812,7 @@
         "kanji": "粁",
         "kana": "キロメートル",
         "romaji": "kiromeetoru",
+        "devnagri": "सुस्त",
         "type": [
             "noun"
         ],
@@ -4542,6 +4826,7 @@
         "kanji": "着る",
         "kana": "きる",
         "romaji": "kiru",
+        "devnagri": "घिसाव",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -4557,6 +4842,7 @@
         "kanji": "切る",
         "kana": "きる",
         "romaji": "kiru",
+        "devnagri": "काट दिया",
         "type": [
             "Godan-ru verb",
             "transitive verb",
@@ -4596,6 +4882,7 @@
         "kanji": "喫茶店",
         "kana": "きっさてん",
         "romaji": "kissaten",
+        "devnagri": "कॉफी की दुकान",
         "type": [
             "noun"
         ],
@@ -4609,6 +4896,7 @@
         "kanji": "北",
         "kana": "きた",
         "romaji": "kita",
+        "devnagri": "उत्तर",
         "type": [
             "noun"
         ],
@@ -4625,6 +4913,7 @@
         "kanji": "汚い",
         "kana": "きたない",
         "romaji": "kitanai",
+        "devnagri": "गंदा",
         "type": [
             "adjective"
         ],
@@ -4642,6 +4931,7 @@
         "kanji": "切手",
         "kana": "きって",
         "romaji": "kitte",
+        "devnagri": "टिकट",
         "type": [
             "noun"
         ],
@@ -4655,6 +4945,7 @@
         "kanji": "此方",
         "kana": "こっち",
         "romaji": "kocchi",
+        "devnagri": "यहाँ",
         "type": [
             "noun",
             "pronoun"
@@ -4673,6 +4964,7 @@
         "kanji": "此方",
         "kana": "こちら",
         "romaji": "kochira",
+        "devnagri": "यहाँ",
         "type": [
             "noun",
             "pronoun"
@@ -4691,6 +4983,7 @@
         "kanji": "子供",
         "kana": "こども",
         "romaji": "kodomo",
+        "devnagri": "बच्चा",
         "type": [
             "noun"
         ],
@@ -4704,6 +4997,7 @@
         "kanji": "声",
         "kana": "こえ",
         "romaji": "koe",
+        "devnagri": "आवाज़",
         "type": [
             "noun"
         ],
@@ -4722,6 +5016,7 @@
         "kanji": "此処",
         "kana": "ここ",
         "romaji": "koko",
+        "devnagri": "यहाँ",
         "type": [
             "pronoun"
         ],
@@ -4737,6 +5032,7 @@
         "kanji": "九日",
         "kana": "ここのか",
         "romaji": "kokonoka",
+        "devnagri": "9 वीं",
         "type": [
             "noun"
         ],
@@ -4751,6 +5047,7 @@
         "kanji": "九つ",
         "kana": "ここのつ",
         "romaji": "kokonotsu",
+        "devnagri": "नौ",
         "type": [
             "numeric",
             "noun"
@@ -4767,6 +5064,7 @@
         "kanji": "困る",
         "kana": "こまる",
         "romaji": "komaru",
+        "devnagri": "मुसीबत में",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -4783,6 +5081,7 @@
         "kanji": "今晩",
         "kana": "こんばん",
         "romaji": "konban",
+        "devnagri": "आज रात",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -4797,6 +5096,7 @@
         "kanji": "今月",
         "kana": "こんげつ",
         "romaji": "kongetsu",
+        "devnagri": "इस महीने",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -4810,6 +5110,7 @@
         "#": 301,
         "kana": "こんな",
         "romaji": "konna",
+        "devnagri": "ऐसा",
         "type": [
             "pre-noun adjectival"
         ],
@@ -4823,6 +5124,7 @@
         "kanji": "此の",
         "kana": "この",
         "romaji": "kono",
+        "devnagri": "यह",
         "type": [
             "pre-noun adjectival"
         ],
@@ -4838,6 +5140,7 @@
         "kanji": "今週",
         "kana": "こんしゅう",
         "romaji": "konshuu",
+        "devnagri": "इस सप्ताह",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -4852,6 +5155,7 @@
         "kanji": "珈琲",
         "kana": "コーヒー",
         "romaji": "koohii",
+        "devnagri": "कॉफी",
         "type": [
             "noun",
             "no-adjective"
@@ -4865,6 +5169,7 @@
         "#": 305,
         "kana": "コート",
         "romaji": "kooto",
+        "devnagri": "परत",
         "type": [
             "noun"
         ],
@@ -4878,6 +5183,7 @@
         "#": 306,
         "kana": "コピー",
         "romaji": "kopii",
+        "devnagri": "कॉपी",
         "type": [
             "noun",
             "auxillary suru verb",
@@ -4894,6 +5200,7 @@
         "#": 307,
         "kana": "コップ",
         "romaji": "koppu",
+        "devnagri": "कप",
         "type": [
             "noun"
         ],
@@ -4906,6 +5213,7 @@
         "#": 308,
         "kana": "これ",
         "romaji": "kore",
+        "devnagri": "यह",
         "type": [
             "interjection"
         ],
@@ -4919,6 +5227,7 @@
         "kanji": "答える",
         "kana": "こたえる",
         "romaji": "kotaeru",
+        "devnagri": "उत्तर",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -4933,6 +5242,7 @@
         "kanji": "言葉",
         "kana": "ことば",
         "romaji": "kotoba",
+        "devnagri": "शब्द",
         "type": [
             "noun"
         ],
@@ -4949,6 +5259,7 @@
         "kanji": "今年",
         "kana": "ことし",
         "romaji": "kotoshi",
+        "devnagri": "इस साल",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -4963,6 +5274,7 @@
         "kanji": "交番",
         "kana": "こうばん",
         "romaji": "kouban",
+        "devnagri": "पुलिस का बॉक्स",
         "type": [
             "noun",
             "auxillary suru verb",
@@ -4980,6 +5292,7 @@
         "kanji": "紅茶",
         "kana": "こうちゃ",
         "romaji": "koucha",
+        "devnagri": "काली चाय",
         "type": [
             "noun"
         ],
@@ -4993,6 +5306,7 @@
         "kanji": "公園",
         "kana": "こうえん",
         "romaji": "kouen",
+        "devnagri": "पार्क",
         "type": [
             "noun"
         ],
@@ -5006,6 +5320,7 @@
         "kanji": "交差点",
         "kana": "こうさてん",
         "romaji": "kousaten",
+        "devnagri": "चौराहा",
         "type": [
             "noun"
         ],
@@ -5019,6 +5334,7 @@
         "kanji": "口",
         "kana": "くち",
         "romaji": "kuchi",
+        "devnagri": "मुँह",
         "type": [
             "noun",
             "suffix",
@@ -5045,6 +5361,7 @@
         "kanji": "果物",
         "kana": "くだもの",
         "romaji": "kudamono",
+        "devnagri": "फल",
         "type": [
             "noun"
         ],
@@ -5058,6 +5375,7 @@
         "kanji": "下さい",
         "kana": "ください",
         "romaji": "kudasai",
+        "devnagri": "कृपया",
         "type": [
             "expression"
         ],
@@ -5072,6 +5390,7 @@
         "kanji": "曇り",
         "kana": "くもり",
         "romaji": "kumori",
+        "devnagri": "बादलों से घिरा",
         "type": [
             "noun"
         ],
@@ -5087,6 +5406,7 @@
         "kanji": "曇る",
         "kana": "くもる",
         "romaji": "kumoru",
+        "devnagri": "चली आ रही है",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -5104,6 +5424,7 @@
         "kanji": "国",
         "kana": "くに",
         "romaji": "kuni",
+        "devnagri": "देश",
         "type": [
             "noun"
         ],
@@ -5122,6 +5443,7 @@
         "kanji": "暗い",
         "kana": "くらい",
         "romaji": "kurai",
+        "devnagri": "अँधेरा",
         "type": [
             "adjective"
         ],
@@ -5139,6 +5461,7 @@
         "#": 323,
         "kana": "クラス",
         "romaji": "kurasu",
+        "devnagri": "कक्षा",
         "type": [
             "noun"
         ],
@@ -5152,6 +5475,7 @@
         "kanji": "黒",
         "kana": "くろ",
         "romaji": "kuro",
+        "devnagri": "काला",
         "type": [
             "noun"
         ],
@@ -5167,6 +5491,7 @@
         "kanji": "黒い",
         "kana": "くろい",
         "romaji": "kuroi",
+        "devnagri": "काला",
         "type": [
             "adjective"
         ],
@@ -5185,6 +5510,7 @@
         "kanji": "来る",
         "kana": "くる",
         "romaji": "kuru",
+        "devnagri": "आना",
         "type": [
             "kuru verb (special)",
             "intransitive verb",
@@ -5208,6 +5534,7 @@
         "kanji": "車",
         "kana": "くるま",
         "romaji": "kuruma",
+        "devnagri": "कार",
         "type": [
             "noun"
         ],
@@ -5222,6 +5549,7 @@
         "kanji": "薬",
         "kana": "くすり",
         "romaji": "kusuri",
+        "devnagri": "दवा",
         "type": [
             "noun"
         ],
@@ -5239,6 +5567,7 @@
         "kanji": "靴",
         "kana": "くつ",
         "romaji": "kutsu",
+        "devnagri": "जूते",
         "type": [
             "noun"
         ],
@@ -5252,6 +5581,7 @@
         "kanji": "靴下",
         "kana": "くつした",
         "romaji": "kutsushita",
+        "devnagri": "मोज़े",
         "type": [
             "noun"
         ],
@@ -5265,6 +5595,7 @@
         "kanji": "去年",
         "kana": "きょねん",
         "romaji": "kyonen",
+        "devnagri": "पिछले साल",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -5279,6 +5610,7 @@
         "kanji": "今日",
         "kana": "きょう",
         "romaji": "kyou",
+        "devnagri": "आज",
         "type": [
             "noun (temporal)"
         ],
@@ -5293,6 +5625,7 @@
         "kanji": "兄弟",
         "kana": "きょうだい",
         "romaji": "kyoudai",
+        "devnagri": "भाई",
         "type": [
             "noun"
         ],
@@ -5309,6 +5642,7 @@
         "kanji": "教室",
         "kana": "きょうしつ",
         "romaji": "kyoushitsu",
+        "devnagri": "कक्षा",
         "type": [
             "noun"
         ],
@@ -5324,6 +5658,7 @@
         "kanji": "九",
         "kana": "きゅう",
         "romaji": "kyuu",
+        "devnagri": "नौ",
         "type": [
             "numeric"
         ],
@@ -5336,6 +5671,7 @@
         "#": 336,
         "kana": "マッチ",
         "romaji": "macchi",
+        "devnagri": "मिलान",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -5351,6 +5687,7 @@
         "kanji": "町",
         "kana": "まち",
         "romaji": "machi",
+        "devnagri": "शहर",
         "type": [
             "noun"
         ],
@@ -5368,6 +5705,7 @@
         "kanji": "未だ",
         "kana": "まだ",
         "romaji": "mada",
+        "devnagri": "फिर भी",
         "type": [
             "adverb",
             "na-adjective"
@@ -5385,6 +5723,7 @@
         "kanji": "窓",
         "kana": "まど",
         "romaji": "mado",
+        "devnagri": "खिड़की",
         "type": [
             "noun"
         ],
@@ -5398,6 +5737,7 @@
         "kanji": "前",
         "kana": "まえ",
         "romaji": "mae",
+        "devnagri": "पहले",
         "type": [
             "noun",
             "suffix",
@@ -5429,6 +5769,7 @@
         "kanji": "曲がる",
         "kana": "まがる",
         "romaji": "magaru",
+        "devnagri": "झुकना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -5445,6 +5786,7 @@
         "kanji": "毎朝",
         "kana": "まいあさ",
         "romaji": "maiasa",
+        "devnagri": "रोज सुबह",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -5459,6 +5801,7 @@
         "kanji": "毎晩",
         "kana": "まいばん",
         "romaji": "maiban",
+        "devnagri": "हर रात",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -5473,6 +5816,7 @@
         "kanji": "毎日",
         "kana": "まいにち",
         "romaji": "mainichi",
+        "devnagri": "रोज रोज",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -5487,6 +5831,7 @@
         "kanji": "毎週",
         "kana": "まいしゅう",
         "romaji": "maishuu",
+        "devnagri": "साप्ताहिक",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -5501,6 +5846,7 @@
         "kanji": "毎年",
         "kana": "まいとし",
         "romaji": "maitoshi",
+        "devnagri": "प्रत्येक वर्ष",
         "type": [
             "noun (temporal)"
         ],
@@ -5514,6 +5860,7 @@
         "kanji": "毎月",
         "kana": "まいつき",
         "romaji": "maitsuki",
+        "devnagri": "महीने के",
         "type": [
             "adverbial noun",
             "noun"
@@ -5528,6 +5875,7 @@
         "kanji": "万",
         "kana": "まん",
         "romaji": "man",
+        "devnagri": "दस हज़ार",
         "type": [
             "numeric",
             "noun",
@@ -5549,6 +5897,7 @@
         "kanji": "万年筆",
         "kana": "まんねんひつ",
         "romaji": "mannenhitsu",
+        "devnagri": "फ़ाउंटेन पेन",
         "type": [
             "noun"
         ],
@@ -5562,6 +5911,7 @@
         "kanji": "丸い",
         "kana": "まるい",
         "romaji": "marui",
+        "devnagri": "गोल",
         "type": [
             "adjective"
         ],
@@ -5577,6 +5927,7 @@
         "kanji": "真っ直ぐ",
         "kana": "まっすぐ",
         "romaji": "massugu",
+        "devnagri": "सीधा",
         "type": [
             "na-adjective",
             "adverb",
@@ -5595,6 +5946,7 @@
         "kanji": "又",
         "kana": "また",
         "romaji": "mata",
+        "devnagri": "या",
         "type": [
             "adverb",
             "conjunction",
@@ -5617,6 +5969,7 @@
         "kanji": "待つ",
         "kana": "まつ",
         "romaji": "matsu",
+        "devnagri": "इंतज़ार",
         "type": [
             "Godan-tsu verb",
             "transitive verb",
@@ -5634,6 +5987,7 @@
         "kanji": "不味い",
         "kana": "まずい",
         "romaji": "mazui",
+        "devnagri": "अविश्वसनीय",
         "type": [
             "adjective"
         ],
@@ -5650,6 +6004,7 @@
         "kanji": "目",
         "kana": "め",
         "romaji": "me",
+        "devnagri": "आँख",
         "type": [
             "noun",
             "suffix"
@@ -5681,6 +6036,7 @@
         "kanji": "米",
         "kana": "メートル",
         "romaji": "meetoru",
+        "devnagri": "चावल",
         "type": [
             "noun"
         ],
@@ -5695,6 +6051,7 @@
         "kanji": "眼鏡",
         "kana": "めがね",
         "romaji": "megane",
+        "devnagri": "चश्मा",
         "type": [
             "noun"
         ],
@@ -5709,6 +6066,7 @@
         "kanji": "道",
         "kana": "みち",
         "romaji": "michi",
+        "devnagri": "सड़क",
         "type": [
             "noun"
         ],
@@ -5729,6 +6087,7 @@
         "kanji": "緑",
         "kana": "みどり",
         "romaji": "midori",
+        "devnagri": "हरा",
         "type": [
             "no-adjective",
             "noun",
@@ -5745,6 +6104,7 @@
         "kanji": "磨く",
         "kana": "みがく",
         "romaji": "migaku",
+        "devnagri": "पॉलिश",
         "type": [
             "Godan-ku verb",
             "transitive verb"
@@ -5760,6 +6120,7 @@
         "kanji": "右",
         "kana": "みぎ",
         "romaji": "migi",
+        "devnagri": "सही",
         "type": [
             "noun",
             "no-adjective"
@@ -5775,6 +6136,7 @@
         "kanji": "短い",
         "kana": "みじかい",
         "romaji": "mijikai",
+        "devnagri": "छोटा",
         "type": [
             "adjective"
         ],
@@ -5788,6 +6150,7 @@
         "kanji": "三日",
         "kana": "みっか",
         "romaji": "mikka",
+        "devnagri": "तीन दिन",
         "type": [
             "noun"
         ],
@@ -5802,6 +6165,7 @@
         "kanji": "耳",
         "kana": "みみ",
         "romaji": "mimi",
+        "devnagri": "कान",
         "type": [
             "noun"
         ],
@@ -5818,6 +6182,7 @@
         "kanji": "南",
         "kana": "みなみ",
         "romaji": "minami",
+        "devnagri": "दक्षिण",
         "type": [
             "noun"
         ],
@@ -5831,6 +6196,7 @@
         "kanji": "皆さん",
         "kana": "みなさん",
         "romaji": "minasan",
+        "devnagri": "सब लोग",
         "type": [
             "noun"
         ],
@@ -5844,6 +6210,7 @@
         "kanji": "皆",
         "kana": "みんな",
         "romaji": "minna",
+        "devnagri": "सभी",
         "type": [
             "adverb",
             "noun"
@@ -5859,6 +6226,7 @@
         "kanji": "見る",
         "kana": "みる",
         "romaji": "miru",
+        "devnagri": "देखना",
         "type": [
             "Ichidan verb",
             "transitive verb",
@@ -5880,6 +6248,7 @@
         "kanji": "店",
         "kana": "みせ",
         "romaji": "mise",
+        "devnagri": "दुकान",
         "type": [
             "noun"
         ],
@@ -5893,6 +6262,7 @@
         "kanji": "見せる",
         "kana": "みせる",
         "romaji": "miseru",
+        "devnagri": "दिखाओ",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -5907,6 +6277,7 @@
         "kanji": "三つ",
         "kana": "みっつ",
         "romaji": "mittsu",
+        "devnagri": "तीन",
         "type": [
             "numeric",
             "noun"
@@ -5922,6 +6293,7 @@
         "kanji": "水",
         "kana": "みず",
         "romaji": "mizu",
+        "devnagri": "पानी",
         "type": [
             "noun"
         ],
@@ -5939,6 +6311,7 @@
         "kanji": "木曜日",
         "kana": "もくようび",
         "romaji": "mokuyoubi",
+        "devnagri": "गुरुवार",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -5953,6 +6326,7 @@
         "kanji": "門",
         "kana": "もん",
         "romaji": "mon",
+        "devnagri": "दरवाज़ा",
         "type": [
             "noun",
             "noun (suffix)",
@@ -5971,6 +6345,7 @@
         "kanji": "問題",
         "kana": "もんだい",
         "romaji": "mondai",
+        "devnagri": "संकट",
         "type": [
             "noun"
         ],
@@ -5988,6 +6363,7 @@
         "kanji": "物",
         "kana": "もの",
         "romaji": "mono",
+        "devnagri": "चीज़",
         "type": [
             "noun",
             "noun (suffix)",
@@ -6012,6 +6388,7 @@
         "kanji": "持つ",
         "kana": "もつ",
         "romaji": "motsu",
+        "devnagri": "पकड़ना",
         "type": [
             "Godan-tsu verb"
         ],
@@ -6028,6 +6405,7 @@
         "#": 378,
         "kana": "もっと",
         "romaji": "motto",
+        "devnagri": "अधिक",
         "type": [
             "adverb"
         ],
@@ -6040,6 +6418,7 @@
         "#": 379,
         "kana": "もう",
         "romaji": "mou",
+        "devnagri": "पहले से",
         "type": [
             "adverb",
             "interjection"
@@ -6057,6 +6436,7 @@
         "kanji": "もう一度",
         "kana": "もういちど",
         "romaji": "mouichido",
+        "devnagri": "फिर एक बार",
         "type": [
             "expression"
         ],
@@ -6070,6 +6450,7 @@
         "kanji": "六日",
         "kana": "むいか",
         "romaji": "muika",
+        "devnagri": "छह दिन",
         "type": [
             "noun"
         ],
@@ -6084,6 +6465,7 @@
         "kanji": "向こう",
         "kana": "むこう",
         "romaji": "mukou",
+        "devnagri": "आर-पार",
         "type": [
             "noun"
         ],
@@ -6100,6 +6482,7 @@
         "kanji": "村",
         "kana": "むら",
         "romaji": "mura",
+        "devnagri": "गाँव",
         "type": [
             "noun"
         ],
@@ -6113,6 +6496,7 @@
         "kanji": "六つ",
         "kana": "むっつ",
         "romaji": "muttsu",
+        "devnagri": "छह",
         "type": [
             "numeric",
             "noun"
@@ -6129,6 +6513,7 @@
         "kanji": "難しい",
         "kana": "むずかしい",
         "romaji": "muzukashii",
+        "devnagri": "कठिन",
         "type": [
             "adjective"
         ],
@@ -6147,6 +6532,7 @@
         "kanji": "等",
         "kana": "など",
         "romaji": "nado",
+        "devnagri": "वगैरह",
         "type": [
             "particle"
         ],
@@ -6162,6 +6548,7 @@
         "kanji": "長い",
         "kana": "ながい",
         "romaji": "nagai",
+        "devnagri": "लंबा",
         "type": [
             "adjective"
         ],
@@ -6175,6 +6562,7 @@
         "#": 388,
         "kana": "ナイフ",
         "romaji": "naifu",
+        "devnagri": "चाकू",
         "type": [
             "noun"
         ],
@@ -6188,6 +6576,7 @@
         "kanji": "中",
         "kana": "なか",
         "romaji": "naka",
+        "devnagri": "~ के दौरान",
         "type": [
             "noun"
         ],
@@ -6204,6 +6593,7 @@
         "kanji": "鳴く",
         "kana": "なく",
         "romaji": "naku",
+        "devnagri": "कुचलना",
         "type": [
             "Godan-ku verb",
             "intransitive verb"
@@ -6220,6 +6610,7 @@
         "kanji": "無くす",
         "kana": "なくす",
         "romaji": "nakusu",
+        "devnagri": "खोना",
         "type": [
             "Godan-su verb",
             "transitive verb"
@@ -6235,6 +6626,7 @@
         "kanji": "名前",
         "kana": "なまえ",
         "romaji": "namae",
+        "devnagri": "नाम",
         "type": [
             "noun"
         ],
@@ -6249,6 +6641,7 @@
         "kanji": "七つ",
         "kana": "ななつ",
         "romaji": "nanatsu",
+        "devnagri": "सात",
         "type": [
             "numeric",
             "noun"
@@ -6265,6 +6658,7 @@
         "kanji": "何",
         "kana": "なん",
         "romaji": "nani",
+        "devnagri": "क्या",
         "type": [
             "pronoun",
             "adverb",
@@ -6286,6 +6680,7 @@
         "kanji": "七日",
         "kana": "なのか",
         "romaji": "nanoka",
+        "devnagri": "सात दिन",
         "type": [
             "adverbial noun"
         ],
@@ -6300,6 +6695,7 @@
         "kanji": "並べる",
         "kana": "ならべる",
         "romaji": "naraberu",
+        "devnagri": "पंक्ति बनायें",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -6316,6 +6712,7 @@
         "kanji": "並ぶ",
         "kana": "ならぶ",
         "romaji": "narabu",
+        "devnagri": "पंक्ति बनायें",
         "type": [
             "Godan-bu verb",
             "intransitive verb"
@@ -6331,6 +6728,7 @@
         "kanji": "習う",
         "kana": "ならう",
         "romaji": "narau",
+        "devnagri": "सीखना",
         "type": [
             "Godan-u verb",
             "transitive verb"
@@ -6344,6 +6742,7 @@
         "#": 399,
         "kana": "なる",
         "romaji": "naru",
+        "devnagri": "बनना",
         "type": [
             "suffix",
             "prenominal",
@@ -6362,6 +6761,7 @@
         "kanji": "夏",
         "kana": "なつ",
         "romaji": "natsu",
+        "devnagri": "गर्मी",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -6376,6 +6776,7 @@
         "kanji": "夏休み",
         "kana": "なつやすみ",
         "romaji": "natsuyasumi",
+        "devnagri": "गर्मी की छुट्टी",
         "type": [
             "noun"
         ],
@@ -6389,6 +6790,7 @@
         "kanji": "何故",
         "kana": "なぜ",
         "romaji": "naze",
+        "devnagri": "क्यों",
         "type": [
             "adverb"
         ],
@@ -6402,6 +6804,7 @@
         "kanji": "猫",
         "kana": "ねこ",
         "romaji": "neko",
+        "devnagri": "बिल्ली",
         "type": [
             "noun"
         ],
@@ -6419,6 +6822,7 @@
         "#": 404,
         "kana": "ネクタイ",
         "romaji": "nekutai",
+        "devnagri": "बाँधना",
         "type": [
             "noun"
         ],
@@ -6432,6 +6836,7 @@
         "kanji": "寝る",
         "kana": "ねる",
         "romaji": "neru",
+        "devnagri": "नींद",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -6450,6 +6855,7 @@
         "kanji": "二",
         "kana": "に",
         "romaji": "ni",
+        "devnagri": "दो",
         "type": [
             "numeric"
         ],
@@ -6463,6 +6869,7 @@
         "kanji": "日曜日",
         "kana": "にちようび",
         "romaji": "nichiyoubi",
+        "devnagri": "रविवार",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -6477,6 +6884,7 @@
         "kanji": "賑やか",
         "kana": "にぎやか",
         "romaji": "nigiyaka",
+        "devnagri": "व्यस्त",
         "type": [
             "na-adjective"
         ],
@@ -6490,6 +6898,7 @@
         "kanji": "肉",
         "kana": "にく",
         "romaji": "niku",
+        "devnagri": "मांस",
         "type": [
             "noun"
         ],
@@ -6507,6 +6916,7 @@
         "kanji": "荷物",
         "kana": "にもつ",
         "romaji": "nimotsu",
+        "devnagri": "सामान",
         "type": [
             "noun"
         ],
@@ -6522,6 +6932,7 @@
         "kanji": "西",
         "kana": "にし",
         "romaji": "nishi",
+        "devnagri": "पश्चिम",
         "type": [
             "noun"
         ],
@@ -6535,6 +6946,7 @@
         "kanji": "庭",
         "kana": "にわ",
         "romaji": "niwa",
+        "devnagri": "बगीचा",
         "type": [
             "noun"
         ],
@@ -6549,6 +6961,7 @@
         "kanji": "登る",
         "kana": "のぼる",
         "romaji": "noboru",
+        "devnagri": "चढ़ना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -6570,6 +6983,7 @@
         "kanji": "飲み物",
         "kana": "のみもの",
         "romaji": "nomimono",
+        "devnagri": "पीना",
         "type": [
             "noun"
         ],
@@ -6583,6 +6997,7 @@
         "kanji": "飲む",
         "kana": "のむ",
         "romaji": "nomu",
+        "devnagri": "पीना",
         "type": [
             "Godan-mu verb",
             "transitive verb"
@@ -6601,6 +7016,7 @@
         "#": 416,
         "kana": "ノート",
         "romaji": "nooto",
+        "devnagri": "टिप्पणी",
         "type": [
             "noun",
             "noun",
@@ -6620,6 +7036,7 @@
         "kanji": "乗る",
         "kana": "のる",
         "romaji": "noru",
+        "devnagri": "मिल कर रहना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -6642,6 +7059,7 @@
         "kanji": "脱ぐ",
         "kana": "ぬぐ",
         "romaji": "nugu",
+        "devnagri": "उड़ान भरना",
         "type": [
             "Godan-gu verb",
             "transitive verb"
@@ -6656,6 +7074,7 @@
         "kanji": "温い",
         "kana": "ぬるい",
         "romaji": "nurui",
+        "devnagri": "गरम",
         "type": [
             "adjective"
         ],
@@ -6670,6 +7089,7 @@
         "#": 420,
         "kana": "ニュース",
         "romaji": "nyuusu",
+        "devnagri": "समाचार",
         "type": [
             "noun"
         ],
@@ -6683,6 +7103,7 @@
         "kanji": "お祖母さん",
         "kana": "おばあさん",
         "romaji": "obaasan",
+        "devnagri": "दादी मा",
         "type": [
             "noun"
         ],
@@ -6697,6 +7118,7 @@
         "kanji": "伯母さん",
         "kana": "おばさん",
         "romaji": "obasan",
+        "devnagri": "चाची",
         "type": [
             "noun"
         ],
@@ -6710,6 +7132,7 @@
         "kanji": "お弁当",
         "kana": "おべんとう",
         "romaji": "obentou",
+        "devnagri": "बेंतो",
         "type": [
             "noun"
         ],
@@ -6723,6 +7146,7 @@
         "kanji": "覚える",
         "kana": "おぼえる",
         "romaji": "oboeru",
+        "devnagri": "कंठस्थ करना",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -6740,6 +7164,7 @@
         "kanji": "お茶",
         "kana": "おちゃ",
         "romaji": "ocha",
+        "devnagri": "चाय",
         "type": [
             "noun"
         ],
@@ -6755,6 +7180,7 @@
         "kanji": "お風呂",
         "kana": "おふろ",
         "romaji": "ofuro",
+        "devnagri": "नहाना",
         "type": [
             "noun"
         ],
@@ -6768,6 +7194,7 @@
         "kanji": "美味しい",
         "kana": "おいしい",
         "romaji": "oishii",
+        "devnagri": "स्वादिष्ट",
         "type": [
             "adjective"
         ],
@@ -6782,6 +7209,7 @@
         "kanji": "お祖父さん",
         "kana": "おじいさん",
         "romaji": "ojiisan",
+        "devnagri": "दादा",
         "type": [
             "noun"
         ],
@@ -6796,6 +7224,7 @@
         "kanji": "伯父さん",
         "kana": "おじさん",
         "romaji": "ojisan",
+        "devnagri": "चाचा",
         "type": [
             "noun"
         ],
@@ -6811,6 +7240,7 @@
         "kanji": "お母さん",
         "kana": "おかあさん",
         "romaji": "okaasan",
+        "devnagri": "माँ",
         "type": [
             "noun"
         ],
@@ -6825,6 +7255,7 @@
         "kanji": "お金",
         "kana": "おかね",
         "romaji": "okane",
+        "devnagri": "धन",
         "type": [
             "noun"
         ],
@@ -6838,6 +7269,7 @@
         "kanji": "お菓子",
         "kana": "おかし",
         "romaji": "okashi",
+        "devnagri": "मिठाइयाँ",
         "type": [
             "noun"
         ],
@@ -6851,6 +7283,7 @@
         "kanji": "起きる",
         "kana": "おきる",
         "romaji": "okiru",
+        "devnagri": "उठना",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -6867,6 +7300,7 @@
         "kanji": "置く",
         "kana": "おく",
         "romaji": "oku",
+        "devnagri": "रखना",
         "type": [
             "Godan-ku verb",
             "transitive verb",
@@ -6892,6 +7326,7 @@
         "kanji": "奥さん",
         "kana": "おくさん",
         "romaji": "okusan",
+        "devnagri": "पत्नी",
         "type": [
             "noun"
         ],
@@ -6905,6 +7340,7 @@
         "kanji": "お巡りさん",
         "kana": "おまわりさん",
         "romaji": "omawarisan",
+        "devnagri": "पोलिस वाला",
         "type": [
             "noun"
         ],
@@ -6918,6 +7354,7 @@
         "kanji": "重い",
         "kana": "おもい",
         "romaji": "omoi",
+        "devnagri": "भारी",
         "type": [
             "adjective"
         ],
@@ -6936,6 +7373,7 @@
         "kanji": "面白い",
         "kana": "おもしろい",
         "romaji": "omoshiroi",
+        "devnagri": "दिलचस्प",
         "type": [
             "adjective"
         ],
@@ -6952,6 +7390,7 @@
         "kanji": "同じ",
         "kana": "おなじ",
         "romaji": "onaji",
+        "devnagri": "वही",
         "type": [
             "prenominal",
             "noun",
@@ -6968,6 +7407,7 @@
         "kanji": "お腹",
         "kana": "おなか",
         "romaji": "onaka",
+        "devnagri": "पेट",
         "type": [
             "noun"
         ],
@@ -6981,6 +7421,7 @@
         "kanji": "お姉さん",
         "kana": "おねえさん",
         "romaji": "oneesan",
+        "devnagri": "बड़ी बहन",
         "type": [
             "noun"
         ],
@@ -6998,6 +7439,7 @@
         "kanji": "音楽",
         "kana": "おんがく",
         "romaji": "ongaku",
+        "devnagri": "संगीत",
         "type": [
             "noun"
         ],
@@ -7011,6 +7453,7 @@
         "kanji": "お兄さん",
         "kana": "おにいさん",
         "romaji": "oniisan",
+        "devnagri": "भाई",
         "type": [
             "noun"
         ],
@@ -7025,6 +7468,7 @@
         "kanji": "女",
         "kana": "おんな",
         "romaji": "onna",
+        "devnagri": "महिला",
         "type": [
             "noun",
             "noun (prefix)",
@@ -7041,6 +7485,7 @@
         "kanji": "女の子",
         "kana": "おんなのこ",
         "romaji": "onnanoko",
+        "devnagri": "लड़की",
         "type": [
             "expression",
             "noun"
@@ -7056,6 +7501,7 @@
         "kanji": "多い",
         "kana": "おおい",
         "romaji": "ooi",
+        "devnagri": "अनेक",
         "type": [
             "adjective"
         ],
@@ -7071,6 +7517,7 @@
         "kanji": "大きい",
         "kana": "おおきい",
         "romaji": "ookii",
+        "devnagri": "बड़ा",
         "type": [
             "adjective"
         ],
@@ -7088,6 +7535,7 @@
         "kanji": "大きな",
         "kana": "おおきな",
         "romaji": "ookina",
+        "devnagri": "बड़ा",
         "type": [
             "pre-noun adjectival"
         ],
@@ -7101,6 +7549,7 @@
         "kanji": "大勢",
         "kana": "おおぜい",
         "romaji": "oozei",
+        "devnagri": "बहुत भीड़",
         "type": [
             "noun",
             "no-adjective",
@@ -7117,6 +7566,7 @@
         "kanji": "降りる",
         "kana": "おりる",
         "romaji": "oriru",
+        "devnagri": "उतर जाओ",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -7136,6 +7586,7 @@
         "kanji": "お酒",
         "kana": "おさけ",
         "romaji": "osake",
+        "devnagri": "कारण",
         "type": [
             "noun"
         ],
@@ -7149,6 +7600,7 @@
         "kanji": "お皿",
         "kana": "おさら",
         "romaji": "osara",
+        "devnagri": "व्यंजन",
         "type": [
             "noun"
         ],
@@ -7162,6 +7614,7 @@
         "kanji": "教える",
         "kana": "おしえる",
         "romaji": "oshieru",
+        "devnagri": "पढ़ाना",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -7178,6 +7631,7 @@
         "kanji": "遅い",
         "kana": "おそい",
         "romaji": "osoi",
+        "devnagri": "धीमा",
         "type": [
             "adjective"
         ],
@@ -7195,6 +7649,7 @@
         "kanji": "押す",
         "kana": "おす",
         "romaji": "osu",
+        "devnagri": "धकेलना",
         "type": [
             "Godan-su verb",
             "transitive verb"
@@ -7220,6 +7675,7 @@
         "kanji": "お手洗い",
         "kana": "おてあらい",
         "romaji": "otearai",
+        "devnagri": "स्नानघर",
         "type": [
             "noun"
         ],
@@ -7233,6 +7689,7 @@
         "kanji": "男",
         "kana": "おとこ",
         "romaji": "otoko",
+        "devnagri": "आदमी",
         "type": [
             "noun",
             "noun (prefix)",
@@ -7251,6 +7708,7 @@
         "kanji": "男の子",
         "kana": "おとこのこ",
         "romaji": "otokonoko",
+        "devnagri": "लड़का",
         "type": [
             "expression",
             "noun"
@@ -7266,6 +7724,7 @@
         "kanji": "大人",
         "kana": "おとな",
         "romaji": "otona",
+        "devnagri": "वयस्क",
         "type": [
             "noun",
             "no-adjective",
@@ -7281,6 +7740,7 @@
         "kanji": "一昨日",
         "kana": "おととい",
         "romaji": "ototoi",
+        "devnagri": "परसों",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -7295,6 +7755,7 @@
         "kanji": "一昨年",
         "kana": "おととし",
         "romaji": "ototoshi",
+        "devnagri": "दो वर्ष पहले",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -7309,6 +7770,7 @@
         "kanji": "お父さん",
         "kana": "おとうさん",
         "romaji": "otousan",
+        "devnagri": "पिता",
         "type": [
             "noun",
             "pronoun"
@@ -7325,6 +7787,7 @@
         "kanji": "弟",
         "kana": "おとうと",
         "romaji": "otouto",
+        "devnagri": "छोटा भाई",
         "type": [
             "noun"
         ],
@@ -7340,6 +7803,7 @@
         "kanji": "終る",
         "kana": "おわる",
         "romaji": "owaru",
+        "devnagri": "अंत",
         "type": [
             "Godan-ru verb",
             "intransitive verb",
@@ -7355,6 +7819,7 @@
         "kanji": "泳ぐ",
         "kana": "およぐ",
         "romaji": "oyogu",
+        "devnagri": "तैरना",
         "type": [
             "Godan-gu verb",
             "intransitive verb"
@@ -7368,6 +7833,7 @@
         "#": 466,
         "kana": "パーティー",
         "romaji": "paatii",
+        "devnagri": "दल",
         "type": [
             "noun"
         ],
@@ -7381,6 +7847,7 @@
         "#": 467,
         "kana": "パン",
         "romaji": "pan",
+        "devnagri": "रोटी",
         "type": [
             "noun",
             "noun",
@@ -7398,6 +7865,7 @@
         "kanji": "頁",
         "kana": "ページ",
         "romaji": "peeji",
+        "devnagri": "पृष्ठ",
         "type": [
             "noun",
             "counter"
@@ -7411,6 +7879,7 @@
         "#": 469,
         "kana": "ペン",
         "romaji": "pen",
+        "devnagri": "कलम",
         "type": [
             "noun"
         ],
@@ -7423,6 +7892,7 @@
         "#": 470,
         "kana": "ペット",
         "romaji": "petto",
+        "devnagri": "पालतू जानवर",
         "type": [
             "noun"
         ],
@@ -7436,6 +7906,7 @@
         "#": 471,
         "kana": "ポケット",
         "romaji": "poketto",
+        "devnagri": "जेब",
         "type": [
             "noun"
         ],
@@ -7448,6 +7919,7 @@
         "#": 472,
         "kana": "ポスト",
         "romaji": "posuto",
+        "devnagri": "डाक",
         "type": [
             "noun",
             "prenominal"
@@ -7464,6 +7936,7 @@
         "#": 473,
         "kana": "プール",
         "romaji": "puuru",
+        "devnagri": "पूल",
         "type": [
             "noun",
             "noun",
@@ -7481,6 +7954,7 @@
         "kanji": "来月",
         "kana": "らいげつ",
         "romaji": "raigetsu",
+        "devnagri": "अगले महीने",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -7495,6 +7969,7 @@
         "kanji": "来年",
         "kana": "らいねん",
         "romaji": "rainen",
+        "devnagri": "अगले वर्ष",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -7509,6 +7984,7 @@
         "kanji": "来週",
         "kana": "らいしゅう",
         "romaji": "raishuu",
+        "devnagri": "अगले सप्ताह",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -7522,6 +7998,7 @@
         "#": 477,
         "kana": "ラジオ",
         "romaji": "rajio",
+        "devnagri": "रेडियो",
         "type": [
             "noun"
         ],
@@ -7534,6 +8011,7 @@
         "#": 478,
         "kana": "ラジオカセット",
         "romaji": "rajiokasetto",
+        "devnagri": "रेडियो कैसेट",
         "type": [
             "noun"
         ],
@@ -7547,6 +8025,7 @@
         "kanji": "零",
         "kana": "れい",
         "romaji": "rei",
+        "devnagri": "शून्य",
         "type": [
             "noun"
         ],
@@ -7560,6 +8039,7 @@
         "kanji": "冷蔵庫",
         "kana": "れいぞうこ",
         "romaji": "reizouko",
+        "devnagri": "रेफ़्रिजरेटर",
         "type": [
             "noun"
         ],
@@ -7572,6 +8052,7 @@
         "#": 481,
         "kana": "レコード",
         "romaji": "rekoodo",
+        "devnagri": "अभिलेख",
         "type": [
             "noun"
         ],
@@ -7587,6 +8068,7 @@
         "kanji": "練習",
         "kana": "れんしゅう",
         "romaji": "renshuu",
+        "devnagri": "अभ्यास",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -7600,6 +8082,7 @@
         "#": 483,
         "kana": "レストラン",
         "romaji": "resutoran",
+        "devnagri": "रेस्टोरेंट",
         "type": [
             "noun"
         ],
@@ -7613,6 +8096,7 @@
         "kanji": "立派",
         "kana": "りっぱ",
         "romaji": "rippa",
+        "devnagri": "अच्छा",
         "type": [
             "na-adjective"
         ],
@@ -7629,6 +8113,7 @@
         "kanji": "六",
         "kana": "ろく",
         "romaji": "roku",
+        "devnagri": "छह",
         "type": [
             "numeric"
         ],
@@ -7642,6 +8127,7 @@
         "kanji": "廊下",
         "kana": "ろうか",
         "romaji": "rouka",
+        "devnagri": "गलियारे",
         "type": [
             "noun"
         ],
@@ -7655,6 +8141,7 @@
         "kanji": "旅行",
         "kana": "りょこう",
         "romaji": "ryokou",
+        "devnagri": "यात्रा",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -7669,6 +8156,7 @@
         "kanji": "料理",
         "kana": "りょうり",
         "romaji": "ryouri",
+        "devnagri": "खाना बनाना",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -7684,6 +8172,7 @@
         "kanji": "両親",
         "kana": "りょうしん",
         "romaji": "ryoushin",
+        "devnagri": "अभिभावक",
         "type": [
             "noun"
         ],
@@ -7697,6 +8186,7 @@
         "kanji": "留学生",
         "kana": "りゅうがくせい",
         "romaji": "ryuugakusei",
+        "devnagri": "अंतरराष्ट्रीय छात्र",
         "type": [
             "noun"
         ],
@@ -7709,6 +8199,7 @@
         "#": 491,
         "kana": "さあ",
         "romaji": "saa",
+        "devnagri": "ये रहा",
         "type": [
             "conjunction",
             "interjection"
@@ -7726,6 +8217,7 @@
         "kanji": "財布",
         "kana": "さいふ",
         "romaji": "saifu",
+        "devnagri": "बटुआ",
         "type": [
             "noun"
         ],
@@ -7739,6 +8231,7 @@
         "kanji": "魚",
         "kana": "さかな",
         "romaji": "sakana",
+        "devnagri": "मछली",
         "type": [
             "noun"
         ],
@@ -7752,6 +8245,7 @@
         "kanji": "先",
         "kana": "さき",
         "romaji": "saki",
+        "devnagri": "प्रधानता",
         "type": [
             "noun",
             "no-adjective",
@@ -7774,6 +8268,7 @@
         "kanji": "咲く",
         "kana": "さく",
         "romaji": "saku",
+        "devnagri": "खिलना",
         "type": [
             "Godan-ku verb",
             "intransitive verb"
@@ -7788,6 +8283,7 @@
         "kanji": "作文",
         "kana": "さくぶん",
         "romaji": "sakubun",
+        "devnagri": "संघटन",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -7803,6 +8299,7 @@
         "kanji": "寒い",
         "kana": "さむい",
         "romaji": "samui",
+        "devnagri": "ठंडा",
         "type": [
             "adjective"
         ],
@@ -7817,6 +8314,7 @@
         "kanji": "三",
         "kana": "さん",
         "romaji": "san",
+        "devnagri": "तीन",
         "type": [
             "numeric",
             "prefix"
@@ -7832,6 +8330,7 @@
         "kanji": "散歩",
         "kana": "さんぽ",
         "romaji": "sanpo",
+        "devnagri": "चहलक़दमी",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -7846,6 +8345,7 @@
         "kanji": "再来年",
         "kana": "さらいねん",
         "romaji": "sarainen",
+        "devnagri": "अगले वर्ष",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -7860,6 +8360,7 @@
         "kanji": "差す",
         "kana": "さす",
         "romaji": "sasu",
+        "devnagri": "लाना",
         "type": [
             "Godan-su verb",
             "intransitive verb",
@@ -7893,6 +8394,7 @@
         "kanji": "砂糖",
         "kana": "さとう",
         "romaji": "satou",
+        "devnagri": "चीनी",
         "type": [
             "noun"
         ],
@@ -7906,6 +8408,7 @@
         "kanji": "背",
         "kana": "せ",
         "romaji": "se",
+        "devnagri": "पीछे",
         "type": [
             "noun"
         ],
@@ -7922,6 +8425,7 @@
         "kanji": "背広",
         "kana": "せびろ",
         "romaji": "sebiro",
+        "devnagri": "सुविधाजनक होना",
         "type": [
             "noun"
         ],
@@ -7934,6 +8438,7 @@
         "#": 505,
         "kana": "セーター",
         "romaji": "seetaa",
+        "devnagri": "स्वेटर",
         "type": [
             "noun"
         ],
@@ -7947,6 +8452,7 @@
         "kanji": "生徒",
         "kana": "せいと",
         "romaji": "seito",
+        "devnagri": "विद्यार्थी",
         "type": [
             "noun"
         ],
@@ -7960,6 +8466,7 @@
         "kanji": "石鹸",
         "kana": "せっけん",
         "romaji": "sekken",
+        "devnagri": "साबुन",
         "type": [
             "noun"
         ],
@@ -7973,6 +8480,7 @@
         "kanji": "狭い",
         "kana": "せまい",
         "romaji": "semai",
+        "devnagri": "सँकरा",
         "type": [
             "adjective"
         ],
@@ -7987,6 +8495,7 @@
         "kanji": "千",
         "kana": "せん",
         "romaji": "sen",
+        "devnagri": "हज़ार",
         "type": [
             "numeric"
         ],
@@ -8000,6 +8509,7 @@
         "kanji": "先月",
         "kana": "せんげつ",
         "romaji": "sengetsu",
+        "devnagri": "पिछला महीना",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -8014,6 +8524,7 @@
         "kanji": "先生",
         "kana": "せんせい",
         "romaji": "sensei",
+        "devnagri": "अध्यापक",
         "type": [
             "noun",
             "noun",
@@ -8033,6 +8544,7 @@
         "kanji": "先週",
         "kana": "せんしゅう",
         "romaji": "senshuu",
+        "devnagri": "पिछले सप्ताह",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -8047,6 +8559,7 @@
         "kanji": "洗濯",
         "kana": "せんたく",
         "romaji": "sentaku",
+        "devnagri": "धोने लायक कपड़े",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -8062,6 +8575,7 @@
         "kanji": "写真",
         "kana": "しゃしん",
         "romaji": "shashin",
+        "devnagri": "फोटो",
         "type": [
             "noun"
         ],
@@ -8075,6 +8589,7 @@
         "#": 515,
         "kana": "シャツ",
         "romaji": "shatsu",
+        "devnagri": "कमीज",
         "type": [
             "noun"
         ],
@@ -8088,6 +8603,7 @@
         "#": 516,
         "kana": "シャワー",
         "romaji": "shawaa",
+        "devnagri": "फव्वारा",
         "type": [
             "noun"
         ],
@@ -8101,6 +8617,7 @@
         "kanji": "四",
         "kana": "し",
         "romaji": "shi",
+        "devnagri": "चार",
         "type": [
             "numeric"
         ],
@@ -8114,6 +8631,7 @@
         "kanji": "七",
         "kana": "しち",
         "romaji": "shichi",
+        "devnagri": "सात",
         "type": [
             "numeric",
             "prefix"
@@ -8129,6 +8647,7 @@
         "kanji": "仕事",
         "kana": "しごと",
         "romaji": "shigoto",
+        "devnagri": "काम",
         "type": [
             "noun",
             "auxillary suru verb",
@@ -8145,6 +8664,7 @@
         "kanji": "然し",
         "kana": "しかし",
         "romaji": "shikashi",
+        "devnagri": "लेकिन",
         "type": [
             "conjunction"
         ],
@@ -8158,6 +8678,7 @@
         "kanji": "閉まる",
         "kana": "しまる",
         "romaji": "shimaru",
+        "devnagri": "बंद रहा",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -8176,6 +8697,7 @@
         "kanji": "閉める",
         "kana": "しめる",
         "romaji": "shimeru",
+        "devnagri": "बंद करना",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -8190,6 +8712,7 @@
         "kanji": "締める",
         "kana": "しめる",
         "romaji": "shimeru",
+        "devnagri": "कस",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -8209,6 +8732,7 @@
         "kanji": "新聞",
         "kana": "しんぶん",
         "romaji": "shinbun",
+        "devnagri": "अखबार",
         "type": [
             "noun"
         ],
@@ -8222,6 +8746,7 @@
         "kanji": "死ぬ",
         "kana": "しぬ",
         "romaji": "shinu",
+        "devnagri": "मरना",
         "type": [
             "Godan-nu verb",
             "nu verb (irregular)",
@@ -8239,6 +8764,7 @@
         "kanji": "塩",
         "kana": "しお",
         "romaji": "shio",
+        "devnagri": "नमक",
         "type": [
             "noun"
         ],
@@ -8255,6 +8781,7 @@
         "kanji": "白",
         "kana": "しろ",
         "romaji": "shiro",
+        "devnagri": "सफ़ेद",
         "type": [
             "noun"
         ],
@@ -8273,6 +8800,7 @@
         "kanji": "白い",
         "kana": "しろい",
         "romaji": "shiroi",
+        "devnagri": "सफ़ेद",
         "type": [
             "adjective"
         ],
@@ -8286,6 +8814,7 @@
         "kanji": "知る",
         "kana": "しる",
         "romaji": "shiru",
+        "devnagri": "जानना",
         "type": [
             "Godan-ru verb",
             "transitive verb"
@@ -8306,6 +8835,7 @@
         "kanji": "下",
         "kana": "した",
         "romaji": "shita",
+        "devnagri": "अंतर्गत",
         "type": [
             "noun",
             "noun",
@@ -8329,6 +8859,7 @@
         "kanji": "質問",
         "kana": "しつもん",
         "romaji": "shitsumon",
+        "devnagri": "सवाल",
         "type": [
             "noun",
             "auxillary suru verb",
@@ -8344,6 +8875,7 @@
         "kanji": "静か",
         "kana": "しずか",
         "romaji": "shizuka",
+        "devnagri": "शांत",
         "type": [
             "na-adjective"
         ],
@@ -8359,6 +8891,7 @@
         "kanji": "食堂",
         "kana": "しょくどう",
         "romaji": "shokudou",
+        "devnagri": "भोजन कक्ष",
         "type": [
             "noun"
         ],
@@ -8373,6 +8906,7 @@
         "kanji": "醤油",
         "kana": "しょうゆ",
         "romaji": "shouyu",
+        "devnagri": "सोया सॉस",
         "type": [
             "noun"
         ],
@@ -8386,6 +8920,7 @@
         "kanji": "宿題",
         "kana": "しゅくだい",
         "romaji": "shukudai",
+        "devnagri": "गृहकार्य",
         "type": [
             "noun"
         ],
@@ -8400,6 +8935,7 @@
         "kanji": "側",
         "kana": "そば",
         "romaji": "soba",
+        "devnagri": "~ पक्ष",
         "type": [
             "noun"
         ],
@@ -8414,6 +8950,7 @@
         "kanji": "其方",
         "kana": "そっち",
         "romaji": "socchi",
+        "devnagri": "अन्यथा",
         "type": [
             "pronoun"
         ],
@@ -8431,6 +8968,7 @@
         "kanji": "其方",
         "kana": "そちら",
         "romaji": "sochira",
+        "devnagri": "अन्यथा",
         "type": [
             "pronoun"
         ],
@@ -8448,6 +8986,7 @@
         "kanji": "其処",
         "kana": "そこ",
         "romaji": "soko",
+        "devnagri": "वहाँ",
         "type": [
             "pronoun"
         ],
@@ -8464,6 +9003,7 @@
         "kanji": "其の",
         "kana": "その",
         "romaji": "sono",
+        "devnagri": "इसका",
         "type": [
             "pre-noun adjectival",
             "interjection"
@@ -8480,6 +9020,7 @@
         "kanji": "空",
         "kana": "そら",
         "romaji": "sora",
+        "devnagri": "आकाश",
         "type": [
             "noun",
             "noun (prefix)"
@@ -8500,6 +9041,7 @@
         "#": 542,
         "kana": "それ",
         "romaji": "sore",
+        "devnagri": "वह",
         "type": [
             "interjection"
         ],
@@ -8513,6 +9055,7 @@
         "kanji": "其れでは",
         "kana": "それでは",
         "romaji": "soredeha",
+        "devnagri": "इसलिए",
         "type": [
             "expression"
         ],
@@ -8527,6 +9070,7 @@
         "kanji": "其れから",
         "kana": "それから",
         "romaji": "sorekara",
+        "devnagri": "इसलिए",
         "type": [
             "expression"
         ],
@@ -8540,6 +9084,7 @@
         "kanji": "外",
         "kana": "そと",
         "romaji": "soto",
+        "devnagri": "बाहर",
         "type": [
             "noun"
         ],
@@ -8555,6 +9100,7 @@
         "kanji": "掃除",
         "kana": "そうじ",
         "romaji": "souji",
+        "devnagri": "सफाई",
         "type": [
             "noun",
             "auxillary suru verb"
@@ -8569,6 +9115,7 @@
         "kanji": "然うして",
         "kana": "そうして",
         "romaji": "soushite",
+        "devnagri": "लेकिन",
         "type": [
             "conjunction"
         ],
@@ -8582,6 +9129,7 @@
         "kanji": "直ぐに",
         "kana": "すぐに",
         "romaji": "suguni",
+        "devnagri": "तुरंत",
         "type": [
             "adverb"
         ],
@@ -8595,6 +9143,7 @@
         "kanji": "水曜日",
         "kana": "すいようび",
         "romaji": "suiyoubi",
+        "devnagri": "बुधवार",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -8608,6 +9157,7 @@
         "#": 550,
         "kana": "スカート",
         "romaji": "sukaato",
+        "devnagri": "स्कर्ट",
         "type": [
             "noun"
         ],
@@ -8621,6 +9171,7 @@
         "kanji": "好き",
         "kana": "すき",
         "romaji": "suki",
+        "devnagri": "पसंद",
         "type": [
             "na-adjective",
             "noun",
@@ -8642,6 +9193,7 @@
         "kanji": "少し",
         "kana": "すこし",
         "romaji": "sukoshi",
+        "devnagri": "एक सा",
         "type": [
             "adverb",
             "noun"
@@ -8658,6 +9210,7 @@
         "kanji": "少ない",
         "kana": "すくない",
         "romaji": "sukunai",
+        "devnagri": "कुछ",
         "type": [
             "adjective"
         ],
@@ -8671,6 +9224,7 @@
         "kanji": "住む",
         "kana": "すむ",
         "romaji": "sumu",
+        "devnagri": "रहना",
         "type": [
             "Godan-mu verb",
             "intransitive verb"
@@ -8684,6 +9238,7 @@
         "#": 555,
         "kana": "スポーツ",
         "romaji": "supootsu",
+        "devnagri": "खेल",
         "type": [
             "noun",
             "no-adjective"
@@ -8697,6 +9252,7 @@
         "#": 556,
         "kana": "スプーン",
         "romaji": "supuun",
+        "devnagri": "चम्मच",
         "type": [
             "noun"
         ],
@@ -8709,6 +9265,7 @@
         "#": 557,
         "kana": "スリッパ",
         "romaji": "surippa",
+        "devnagri": "चप्पल",
         "type": [
             "noun"
         ],
@@ -8722,6 +9279,7 @@
         "kanji": "為る",
         "kana": "する",
         "romaji": "suru",
+        "devnagri": "करना",
         "type": [
             "suru verb (irregular)",
             "suru verb (irregular)",
@@ -8758,6 +9316,7 @@
         "#": 559,
         "kana": "ストーブ",
         "romaji": "sutoobu",
+        "devnagri": "चूल्हा",
         "type": [
             "noun"
         ],
@@ -8771,6 +9330,7 @@
         "kanji": "吸う",
         "kana": "すう",
         "romaji": "suu",
+        "devnagri": "साँस",
         "type": [
             "Godan-u verb",
             "transitive verb"
@@ -8788,6 +9348,7 @@
         "kanji": "座る",
         "kana": "すわる",
         "romaji": "suwaru",
+        "devnagri": "बैठना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -8804,6 +9365,7 @@
         "kanji": "涼しい",
         "kana": "すずしい",
         "romaji": "suzushii",
+        "devnagri": "ठंडा",
         "type": [
             "adjective"
         ],
@@ -8821,6 +9383,7 @@
         "kanji": "煙草",
         "kana": "たばこ",
         "romaji": "tabako",
+        "devnagri": "तंबाकू",
         "type": [
             "noun"
         ],
@@ -8835,6 +9398,7 @@
         "kanji": "食べ物",
         "kana": "たべもの",
         "romaji": "tabemono",
+        "devnagri": "खाना",
         "type": [
             "noun"
         ],
@@ -8848,6 +9412,7 @@
         "kanji": "食べる",
         "kana": "たべる",
         "romaji": "taberu",
+        "devnagri": "खाओ",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -8863,6 +9428,7 @@
         "kanji": "多分",
         "kana": "たぶん",
         "romaji": "tabun",
+        "devnagri": "शायद",
         "type": [
             "adverb",
             "na-adjective",
@@ -8879,6 +9445,7 @@
         "kanji": "大変",
         "kana": "たいへん",
         "romaji": "taihen",
+        "devnagri": "मुश्किल",
         "type": [
             "adverb",
             "na-adjective",
@@ -8899,6 +9466,7 @@
         "kanji": "大切",
         "kana": "たいせつ",
         "romaji": "taisetsu",
+        "devnagri": "महत्वपूर्ण",
         "type": [
             "na-adjective",
             "noun"
@@ -8915,6 +9483,7 @@
         "kanji": "大使館",
         "kana": "たいしかん",
         "romaji": "taishikan",
+        "devnagri": "दूतावास",
         "type": [
             "noun"
         ],
@@ -8928,6 +9497,7 @@
         "kanji": "高い",
         "kana": "たかい",
         "romaji": "takai",
+        "devnagri": "महँगा",
         "type": [
             "adjective"
         ],
@@ -8945,6 +9515,7 @@
         "kanji": "沢山",
         "kana": "たくさん",
         "romaji": "takusan",
+        "devnagri": "बहुत",
         "type": [
             "no-adjective",
             "na-adjective",
@@ -8963,6 +9534,7 @@
         "#": 572,
         "kana": "タクシー",
         "romaji": "takushii",
+        "devnagri": "टैक्सी",
         "type": [
             "noun"
         ],
@@ -8976,6 +9548,7 @@
         "kanji": "卵",
         "kana": "たまご",
         "romaji": "tamago",
+        "devnagri": "अंडा",
         "type": [
             "noun"
         ],
@@ -8992,6 +9565,7 @@
         "kanji": "誕生日",
         "kana": "たんじょうび",
         "romaji": "tanjoubi",
+        "devnagri": "जन्मदिन",
         "type": [
             "noun"
         ],
@@ -9005,6 +9579,7 @@
         "kanji": "頼む",
         "kana": "たのむ",
         "romaji": "tanomu",
+        "devnagri": "पूछना",
         "type": [
             "Godan-mu verb",
             "transitive verb",
@@ -9024,6 +9599,7 @@
         "kanji": "楽しい",
         "kana": "たのしい",
         "romaji": "tanoshii",
+        "devnagri": "मज़ा",
         "type": [
             "adjective"
         ],
@@ -9037,6 +9613,7 @@
         "kanji": "縦",
         "kana": "たて",
         "romaji": "tate",
+        "devnagri": "खड़ा",
         "type": [
             "noun",
             "noun",
@@ -9057,6 +9634,7 @@
         "kanji": "建物",
         "kana": "たてもの",
         "romaji": "tatemono",
+        "devnagri": "इमारत",
         "type": [
             "noun"
         ],
@@ -9070,6 +9648,7 @@
         "kanji": "立つ",
         "kana": "たつ",
         "romaji": "tatsu",
+        "devnagri": "खड़ा होना",
         "type": [
             "Godan-tsu verb",
             "intransitive verb"
@@ -9086,6 +9665,7 @@
         "kanji": "手",
         "kana": "て",
         "romaji": "te",
+        "devnagri": "हाथ",
         "type": [
             "noun",
             "noun",
@@ -9113,6 +9693,7 @@
         "#": 581,
         "kana": "テーブル",
         "romaji": "teeburu",
+        "devnagri": "मेज़",
         "type": [
             "noun",
             "no-adjective"
@@ -9126,6 +9707,7 @@
         "#": 582,
         "kana": "テープ",
         "romaji": "teepu",
+        "devnagri": "फीता",
         "type": [
             "noun"
         ],
@@ -9138,6 +9720,7 @@
         "#": 583,
         "kana": "テープレコーダー",
         "romaji": "teepurekoodaa",
+        "devnagri": "टेप रिकॉर्डर",
         "type": [
             "noun"
         ],
@@ -9151,6 +9734,7 @@
         "kanji": "手紙",
         "kana": "てがみ",
         "romaji": "tegami",
+        "devnagri": "पत्र",
         "type": [
             "noun"
         ],
@@ -9164,6 +9748,7 @@
         "kanji": "天気",
         "kana": "てんき",
         "romaji": "tenki",
+        "devnagri": "मौसम",
         "type": [
             "noun"
         ],
@@ -9177,6 +9762,7 @@
         "#": 586,
         "kana": "テレビ",
         "romaji": "terebi",
+        "devnagri": "टीवी सेट",
         "type": [
             "noun"
         ],
@@ -9190,6 +9776,7 @@
         "#": 587,
         "kana": "テスト",
         "romaji": "tesuto",
+        "devnagri": "परीक्षा",
         "type": [
             "noun",
             "auxillary suru verb",
@@ -9207,6 +9794,7 @@
         "kanji": "戸",
         "kana": "と",
         "romaji": "to",
+        "devnagri": "दरवाजा",
         "type": [
             "noun"
         ],
@@ -9223,6 +9811,7 @@
         "kanji": "飛ぶ",
         "kana": "とぶ",
         "romaji": "tobu",
+        "devnagri": "कूदना",
         "type": [
             "Godan-bu verb",
             "intransitive verb"
@@ -9245,6 +9834,7 @@
         "#": 590,
         "kana": "トイレ",
         "romaji": "toire",
+        "devnagri": "शौचालय",
         "type": [
             "noun"
         ],
@@ -9258,6 +9848,7 @@
         "kanji": "時計",
         "kana": "とけい",
         "romaji": "tokei",
+        "devnagri": "घड़ी",
         "type": [
             "noun"
         ],
@@ -9271,6 +9862,7 @@
         "kanji": "時々",
         "kana": "ときどき",
         "romaji": "tokidoki",
+        "devnagri": "कभी-कभी",
         "type": [
             "adverb",
             "noun",
@@ -9286,6 +9878,7 @@
         "kanji": "所",
         "kana": "ところ",
         "romaji": "tokoro",
+        "devnagri": "जगह",
         "type": [
             "noun",
             "suffix",
@@ -9311,6 +9904,7 @@
         "kanji": "止まる",
         "kana": "とまる",
         "romaji": "tomaru",
+        "devnagri": "रुकना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -9327,6 +9921,7 @@
         "kanji": "友達",
         "kana": "ともだち",
         "romaji": "tomodachi",
+        "devnagri": "दोस्त",
         "type": [
             "noun"
         ],
@@ -9340,6 +9935,7 @@
         "kanji": "隣",
         "kana": "となり",
         "romaji": "tonari",
+        "devnagri": "अगला",
         "type": [
             "no-adjective",
             "noun",
@@ -9357,6 +9953,7 @@
         "kanji": "遠い",
         "kana": "とおい",
         "romaji": "tooi",
+        "devnagri": "दूर",
         "type": [
             "adjective"
         ],
@@ -9375,6 +9972,7 @@
         "kanji": "十日",
         "kana": "とおか",
         "romaji": "tooka",
+        "devnagri": "दस दिन",
         "type": [
             "noun"
         ],
@@ -9389,6 +9987,7 @@
         "kanji": "鳥",
         "kana": "とり",
         "romaji": "tori",
+        "devnagri": "चिड़िया",
         "type": [
             "noun"
         ],
@@ -9403,6 +10002,7 @@
         "kanji": "とり肉",
         "kana": "とりにく",
         "romaji": "toriniku",
+        "devnagri": "मांस",
         "type": [
             "noun"
         ],
@@ -9417,6 +10017,7 @@
         "kanji": "取る",
         "kana": "とる",
         "romaji": "toru",
+        "devnagri": "लेना",
         "type": [
             "Godan-ru verb",
             "transitive verb"
@@ -9447,6 +10048,7 @@
         "kanji": "撮る",
         "kana": "とる",
         "romaji": "toru",
+        "devnagri": "एक तस्वीर ले लो",
         "type": [
             "Godan-ru verb",
             "transitive verb"
@@ -9462,6 +10064,7 @@
         "kanji": "年",
         "kana": "とし",
         "romaji": "toshi",
+        "devnagri": "वर्ष",
         "type": [
             "noun"
         ],
@@ -9477,6 +10080,7 @@
         "kanji": "図書館",
         "kana": "としょかん",
         "romaji": "toshokan",
+        "devnagri": "पुस्तकालय",
         "type": [
             "noun"
         ],
@@ -9490,6 +10094,7 @@
         "kanji": "迚も",
         "kana": "とても",
         "romaji": "totemo",
+        "devnagri": "और",
         "type": [
             "adverb"
         ],
@@ -9504,6 +10109,7 @@
         "kanji": "次",
         "kana": "つぎ",
         "romaji": "tsugi",
+        "devnagri": "अगला",
         "type": [
             "noun",
             "no-adjective"
@@ -9519,6 +10125,7 @@
         "kanji": "一日",
         "kana": "ついたち",
         "romaji": "tsuitachi",
+        "devnagri": "एक दिन",
         "type": [
             "noun"
         ],
@@ -9533,6 +10140,7 @@
         "kanji": "疲れる",
         "kana": "つかれる",
         "romaji": "tsukareru",
+        "devnagri": "क्लांत होना",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -9549,6 +10157,7 @@
         "kanji": "使う",
         "kana": "つかう",
         "romaji": "tsukau",
+        "devnagri": "उपयोग",
         "type": [
             "Godan-u verb",
             "transitive verb"
@@ -9566,6 +10175,7 @@
         "kanji": "付ける",
         "kana": "つける",
         "romaji": "tsukeru",
+        "devnagri": "घिसाव",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -9593,6 +10203,7 @@
         "kanji": "着く",
         "kana": "つく",
         "romaji": "tsuku",
+        "devnagri": "आना",
         "type": [
             "Godan-ku verb",
             "intransitive verb"
@@ -9608,6 +10219,7 @@
         "kanji": "机",
         "kana": "つくえ",
         "romaji": "tsukue",
+        "devnagri": "मेज़",
         "type": [
             "noun"
         ],
@@ -9621,6 +10233,7 @@
         "kanji": "作る",
         "kana": "つくる",
         "romaji": "tsukuru",
+        "devnagri": "बनाना",
         "type": [
             "Godan-ru verb",
             "transitive verb"
@@ -9648,6 +10261,7 @@
         "kanji": "詰らない",
         "kana": "つまらない",
         "romaji": "tsumaranai",
+        "devnagri": "अविवेच्य",
         "type": [
             "adjective"
         ],
@@ -9664,6 +10278,7 @@
         "kanji": "冷たい",
         "kana": "つめたい",
         "romaji": "tsumetai",
+        "devnagri": "ठंडा",
         "type": [
             "adjective"
         ],
@@ -9678,6 +10293,7 @@
         "kanji": "勤める",
         "kana": "つとめる",
         "romaji": "tsutomeru",
+        "devnagri": "सेवा करना",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -9694,6 +10310,7 @@
         "kanji": "強い",
         "kana": "つよい",
         "romaji": "tsuyoi",
+        "devnagri": "मज़बूत",
         "type": [
             "adjective"
         ],
@@ -9713,6 +10330,7 @@
         "kanji": "上",
         "kana": "うえ",
         "romaji": "ue",
+        "devnagri": "ऊपर",
         "type": [
             "noun",
             "no-adjective",
@@ -9749,6 +10367,7 @@
         "kanji": "生まれる",
         "kana": "うまれる",
         "romaji": "umareru",
+        "devnagri": "पैदा होना",
         "type": [
             "Ichidan verb",
             "intransitive verb"
@@ -9763,6 +10382,7 @@
         "kanji": "海",
         "kana": "うみ",
         "romaji": "umi",
+        "devnagri": "महासागर",
         "type": [
             "noun"
         ],
@@ -9776,6 +10396,7 @@
         "kanji": "売る",
         "kana": "うる",
         "romaji": "uru",
+        "devnagri": "बेचना",
         "type": [
             "Godan-ru verb",
             "transitive verb"
@@ -9790,6 +10411,7 @@
         "kanji": "煩い",
         "kana": "うるさい",
         "romaji": "urusai",
+        "devnagri": "तुम मुझे परेशान कर रहे हो",
         "type": [
             "adjective",
             "interjection"
@@ -9807,6 +10429,7 @@
         "kanji": "後ろ",
         "kana": "うしろ",
         "romaji": "ushiro",
+        "devnagri": "पीछे",
         "type": [
             "noun",
             "no-adjective"
@@ -9821,6 +10444,7 @@
         "kanji": "薄い",
         "kana": "うすい",
         "romaji": "usui",
+        "devnagri": "पतला",
         "type": [
             "adjective"
         ],
@@ -9839,6 +10463,7 @@
         "kanji": "歌",
         "kana": "うた",
         "romaji": "uta",
+        "devnagri": "गाना",
         "type": [
             "noun"
         ],
@@ -9854,6 +10479,7 @@
         "kanji": "歌う",
         "kana": "うたう",
         "romaji": "utau",
+        "devnagri": "गाओ",
         "type": [
             "Godan-u verb",
             "transitive verb",
@@ -9872,6 +10498,7 @@
         "kanji": "上着",
         "kana": "うわぎ",
         "romaji": "uwagi",
+        "devnagri": "जैकेट",
         "type": [
             "noun"
         ],
@@ -9885,6 +10512,7 @@
         "kanji": "Ｙシャツ",
         "kana": "ワイシャツ",
         "romaji": "waishatsu",
+        "devnagri": "Y -shirt",
         "type": [
             "noun"
         ],
@@ -9898,6 +10526,7 @@
         "kanji": "若い",
         "kana": "わかい",
         "romaji": "wakai",
+        "devnagri": "युवा",
         "type": [
             "adjective"
         ],
@@ -9913,6 +10542,7 @@
         "kanji": "分かる",
         "kana": "わかる",
         "romaji": "wakaru",
+        "devnagri": "समझना",
         "type": [
             "Godan-ru verb",
             "intransitive verb",
@@ -9930,6 +10560,7 @@
         "kanji": "悪い",
         "kana": "わるい",
         "romaji": "warui",
+        "devnagri": "खराब",
         "type": [
             "adjective",
             "interjection",
@@ -9952,6 +10583,7 @@
         "kanji": "忘れる",
         "kana": "わすれる",
         "romaji": "wasureru",
+        "devnagri": "भूल जाओ",
         "type": [
             "Ichidan verb",
             "transitive verb"
@@ -9966,6 +10598,7 @@
         "kanji": "私",
         "kana": "わたくし",
         "romaji": "watakushi",
+        "devnagri": "मैं",
         "type": [
             "pronoun",
             "no-adjective",
@@ -9985,6 +10618,7 @@
         "kanji": "渡る",
         "kana": "わたる",
         "romaji": "wataru",
+        "devnagri": "अभिभूत होना",
         "type": [
             "Godan-ru verb",
             "intransitive verb"
@@ -10000,6 +10634,7 @@
         "kanji": "私",
         "kana": "わたし",
         "romaji": "watashi",
+        "devnagri": "मैं",
         "type": [
             "pronoun"
         ],
@@ -10013,6 +10648,7 @@
         "kanji": "渡す",
         "kana": "わたす",
         "romaji": "watasu",
+        "devnagri": "सौंप दो",
         "type": [
             "Godan-su verb",
             "transitive verb"
@@ -10029,6 +10665,7 @@
         "kanji": "山",
         "kana": "やま",
         "romaji": "yama",
+        "devnagri": "पर्वत",
         "type": [
             "noun",
             "counter",
@@ -10056,6 +10693,7 @@
         "kanji": "八百屋",
         "kana": "やおや",
         "romaji": "yaoya",
+        "devnagri": "फल बेचनेवाला",
         "type": [
             "noun"
         ],
@@ -10069,6 +10707,7 @@
         "kanji": "遣る",
         "kana": "やる",
         "romaji": "yaru",
+        "devnagri": "करना",
         "type": [
             "Godan-ru verb",
             "transitive verb",
@@ -10104,6 +10743,7 @@
         "kanji": "野菜",
         "kana": "やさい",
         "romaji": "yasai",
+        "devnagri": "सब्ज़ियाँ",
         "type": [
             "noun",
             "no-adjective"
@@ -10118,6 +10758,7 @@
         "kanji": "易しい",
         "kana": "やさしい",
         "romaji": "yasashii",
+        "devnagri": "आसान",
         "type": [
             "adjective"
         ],
@@ -10131,6 +10772,7 @@
         "kanji": "安い",
         "kana": "やすい",
         "romaji": "yasui",
+        "devnagri": "सस्ता",
         "type": [
             "adjective"
         ],
@@ -10145,6 +10787,7 @@
         "kanji": "休み",
         "kana": "やすみ",
         "romaji": "yasumi",
+        "devnagri": "छुट्टी",
         "type": [
             "noun"
         ],
@@ -10160,6 +10803,7 @@
         "kanji": "休む",
         "kana": "やすむ",
         "romaji": "yasumu",
+        "devnagri": "आराम",
         "type": [
             "Godan-mu verb",
             "intransitive verb"
@@ -10177,6 +10821,7 @@
         "kanji": "八つ",
         "kana": "やっつ",
         "romaji": "yattsu",
+        "devnagri": "आठ",
         "type": [
             "numeric",
             "noun"
@@ -10193,6 +10838,7 @@
         "kanji": "呼ぶ",
         "kana": "よぶ",
         "romaji": "yobu",
+        "devnagri": "पुकारना",
         "type": [
             "Godan-bu verb",
             "transitive verb"
@@ -10212,6 +10858,7 @@
         "kanji": "四日",
         "kana": "よっか",
         "romaji": "yokka",
+        "devnagri": "चार दिन",
         "type": [
             "noun"
         ],
@@ -10226,6 +10873,7 @@
         "kanji": "横",
         "kana": "よこ",
         "romaji": "yoko",
+        "devnagri": "के बगल में",
         "type": [
             "noun"
         ],
@@ -10243,6 +10891,7 @@
         "kanji": "良く",
         "kana": "よく",
         "romaji": "yoku",
+        "devnagri": "कुंआ",
         "type": [
             "adverb"
         ],
@@ -10259,6 +10908,7 @@
         "kanji": "読む",
         "kana": "よむ",
         "romaji": "yomu",
+        "devnagri": "पढ़ना",
         "type": [
             "Godan-mu verb",
             "transitive verb"
@@ -10275,6 +10925,7 @@
         "kanji": "夜",
         "kana": "よる",
         "romaji": "yoru",
+        "devnagri": "रात",
         "type": [
             "noun"
         ],
@@ -10289,6 +10940,7 @@
         "kanji": "四つ",
         "kana": "よっつ",
         "romaji": "yottsu",
+        "devnagri": "चार",
         "type": [
             "numeric",
             "noun"
@@ -10306,6 +10958,7 @@
         "kanji": "洋服",
         "kana": "ようふく",
         "romaji": "youfuku",
+        "devnagri": "कपड़े",
         "type": [
             "noun"
         ],
@@ -10319,6 +10972,7 @@
         "kanji": "八日",
         "kana": "ようか",
         "romaji": "youka",
+        "devnagri": "8 वीं",
         "type": [
             "noun"
         ],
@@ -10333,6 +10987,7 @@
         "kanji": "弱い",
         "kana": "よわい",
         "romaji": "yowai",
+        "devnagri": "कमज़ोर",
         "type": [
             "adjective"
         ],
@@ -10346,6 +11001,7 @@
         "kanji": "雪",
         "kana": "ゆき",
         "romaji": "yuki",
+        "devnagri": "बर्फ",
         "type": [
             "noun"
         ],
@@ -10358,6 +11014,7 @@
         "#": 657,
         "kana": "ゆっくり",
         "romaji": "yukkuri",
+        "devnagri": "धीरे से",
         "type": [
             "adverb",
             "to-adverb",
@@ -10378,6 +11035,7 @@
         "kanji": "行く",
         "kana": "ゆく",
         "romaji": "yuku",
+        "devnagri": "जाना",
         "type": [
             "Godan-iku/yuku verb",
             "intransitive verb",
@@ -10404,6 +11062,7 @@
         "kanji": "昨夜",
         "kana": "ゆうべ",
         "romaji": "yuube",
+        "devnagri": "कल रात",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -10419,6 +11078,7 @@
         "kanji": "郵便局",
         "kana": "ゆうびんきょく",
         "romaji": "yuubinkyoku",
+        "devnagri": "पोस्ट ऑफ़िस",
         "type": [
             "noun"
         ],
@@ -10432,6 +11092,7 @@
         "kanji": "夕方",
         "kana": "ゆうがた",
         "romaji": "yuugata",
+        "devnagri": "शाम",
         "type": [
             "adverbial noun",
             "noun (temporal)"
@@ -10446,6 +11107,7 @@
         "kanji": "夕飯",
         "kana": "ゆうはん",
         "romaji": "yuuhan",
+        "devnagri": "रात का खाना",
         "type": [
             "noun"
         ],
@@ -10459,6 +11121,7 @@
         "kanji": "有名",
         "kana": "ゆうめい",
         "romaji": "yuumei",
+        "devnagri": "प्रसिद्ध",
         "type": [
             "na-adjective",
             "noun"
@@ -10474,6 +11137,7 @@
         "kanji": "雑誌",
         "kana": "ざっし",
         "romaji": "zasshi",
+        "devnagri": "पत्रिका",
         "type": [
             "noun"
         ],
@@ -10487,6 +11151,7 @@
         "kanji": "全部",
         "kana": "ぜんぶ",
         "romaji": "zenbu",
+        "devnagri": "सभी",
         "type": [
             "adverbial noun",
             "noun (temporal)",
@@ -10502,6 +11167,7 @@
         "kanji": "０",
         "kana": "ゼロ",
         "romaji": "zero",
+        "devnagri": "0",
         "type": [
             "noun"
         ],
@@ -10514,6 +11180,7 @@
         "#": 667,
         "kana": "ズボン",
         "romaji": "zubon",
+        "devnagri": "पैंट",
         "type": [
             "noun"
         ],

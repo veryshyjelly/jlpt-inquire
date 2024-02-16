@@ -45,9 +45,10 @@ pub fn romaji_search(vocab: &Vec<Word>) {
 
         let word = vocab.iter().find(|w| w.romaji.eq(&ans)).unwrap();
         println!(
-            "{} {}",
+            "{} {} {}",
             word.kana.red().yellow().bold(),
-            word.kanji.magenta()
+            word.kanji.magenta(),
+            word.devnagri.blue().bold()
         );
 
         println!("{}", "Meaning:".bright_green().bold());
